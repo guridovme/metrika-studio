@@ -1,7 +1,7 @@
 body {
     margin: auto;
     font-family: 'Manrope', sans-serif;
-    width: 1150px;
+    width: 1400px;
 }
 p {
     font-weight: 400;
@@ -117,6 +117,21 @@ font-size: 20px;
     line-height: 27px;
     color: #fff;
     letter-spacing: -0.03em; 
+}
+.contacts {
+    width: 1400px;
+    height: 717px;
+    padding: 38px 40px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.footer {
+    background-color: #333333;
+    width: 1400px;
+    height: 229px;
+    padding: 38px 40px;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 /* ~~ Top Navigation Bar ~~ */
 
