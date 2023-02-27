@@ -10,14 +10,6 @@ p {
     letter-spacing: -0.03em;
     color: #000000;
 }
-.about {
-    font-weight: 400;
-    font-size: 45px;
-    line-height: 61px;
-    letter-spacing: -0.03em;
-
-color: #000000;
-}
 h1 {
     font-weight: 400;
     font-size: 60px;
@@ -26,7 +18,7 @@ h1 {
     color: #000000;
 }
 h2 {
-    font-family: 'Manrope';
+    
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -48,7 +40,6 @@ h2 {
     margin: 0 auto;
     box-sizing: border-box;
 }
-
 .main_image p {
     padding: 340px 40px 40px 40px;
     font-size: 20px;
@@ -59,8 +50,15 @@ h2 {
 .about {
     padding: 0px 125px 0px 125px;
 }
+.about p {
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    color: #000000;
+}
 .viewservices{
-font-size: 20px;
+    font-size: 20px;
     line-height: 27px;
     background-color: #ad1818;
     display: block;
@@ -100,7 +98,7 @@ font-size: 20px;
 
 
 .projects {
-    margin: 150px;
+    padding: 0px 125px 0px 125px;
 }
 
 .services {
