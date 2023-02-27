@@ -35,6 +35,9 @@ h2 {
     text-transform: uppercase;
     color: #000000;
 }
+.main {
+    padding: 0px 125px 0px 125px;
+}
 .main_image{
     background-image: url(../images/main_image.png);
     background-size: contain;
@@ -143,7 +146,7 @@ font-size: 20px;
   
   .navigation-bar {
     height: 40px;
-    width: 100%;
+    width: 1400px;
     text-align:center;
     margin-top: 26px;
     margin-bottom: 60px;
