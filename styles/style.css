@@ -28,7 +28,7 @@ h2 {
 }
 .navigation-bar {
     width: 100%;  
-    height: 40px; /* change it to desired width */
+    height: 80px; 
 }
 .logo {
     display: inline-block;
@@ -41,6 +41,12 @@ h2 {
     display: inline-block;
     vertical-align: middle;
     margin-right: 20px;
-    height: 80px;        /* if you want it to take the full height of the bar */
-    line-height: 80px;    /* if you want it vertically middle of the navbar */
+    height: 80px;        
+    line-height: 80px; 
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #101010;  
 }
