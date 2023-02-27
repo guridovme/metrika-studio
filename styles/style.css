@@ -139,19 +139,22 @@ h2 {
 }
 /* ~~ Top Navigation Bar ~~ */
 
+.navigation-bar {
+    height: 40px;
+    width: 1400px;
+    text-align:center;
+    margin-top: 26px;
+    margin-bottom: 60px;
+    text-align: right;
+  }
+
 #navigation-container {
     width: 1150px;
     margin: 0 auto;
     height: 40px;
   }
   
-  .navigation-bar {
-    height: 40px;
-    width: 1400px;
-    text-align:center;
-    margin-top: 26px;
-    margin-bottom: 60px;
-  }
+ 
   .navigation-bar img{
   float:left;
   }
@@ -183,6 +186,4 @@ h2 {
     color: #101010;
   }
   
-  #menu {
-    float: right;
-  }
+  
