@@ -1,6 +1,7 @@
 body {
+    margin: auto;
     font-family: 'Manrope', sans-serif;
-    width: 1150;
+    width: 1150px;
 }
 p {
     font-weight: 400;
