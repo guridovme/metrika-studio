@@ -66,6 +66,11 @@ font-size: 20px;
     position: absolute;
     color: #fff;
 }
+
+.projects {
+    margin: 150px 0px 150px 0px;
+}
+
 /* ~~ Top Navigation Bar ~~ */
 
 #navigation-container {
