@@ -97,6 +97,10 @@ font-size: 20px;
     margin: 150px 0px 150px 0px;
 }
 
+.services {
+    width: 1400px;
+    background-color: #121212;;
+}
 /* ~~ Top Navigation Bar ~~ */
 
 #navigation-container {
