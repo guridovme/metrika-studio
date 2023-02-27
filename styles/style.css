@@ -56,6 +56,9 @@ h2 {
     color: #fff;
     letter-spacing: -0.03em; 
 }
+.about {
+    padding: 0px 125px 0px 125px;
+}
 .viewservices{
 font-size: 20px;
     line-height: 27px;
@@ -97,7 +100,7 @@ font-size: 20px;
 
 
 .projects {
-    margin: 150px 0px 150px 0px;
+    margin: 150px;
 }
 
 .services {
