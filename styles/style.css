@@ -28,19 +28,18 @@ h2 {
 }
 .navigation-bar {
     width: 100%;  
-    height: 80px; /* change it to desired width */
+    height: 40px; /* change it to desired width */
 }
 .logo {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
     width: 128px;
     height: 23px;
-    margin-right: 20px;
-    margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+    
 }
 .navigation-bar > a {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
     margin-right: 20px;
     height: 80px;        /* if you want it to take the full height of the bar */
     line-height: 80px;    /* if you want it vertically middle of the navbar */
