@@ -91,7 +91,14 @@ h2 {
     height: 153px;
     display: block;
     border: 1px solid #AD1818;
-    border-radius: 5px;    
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #AD1818;
+    text-decoration: none;    
 }
 .seeallprojects:hover {
     background-color: red;
