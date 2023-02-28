@@ -113,6 +113,14 @@ h2 {
     margin: 15px 0 15px;
     text-transform: uppercase;
 }
+.project_item a {
+    font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: -0.03em;
+
+color: #000000;
+}
 .services {
     width: 1400px;
     background-color: #121212;;
