@@ -88,21 +88,15 @@ h2 {
 }
 .seeallprojects {
     width: 1150px;
-    height: 153px;    
+    height: 153px;
+    display: block;
+    border: 1px solid #AD1818;
+    border-radius: 5px;    
 }
-
-.seeallprojects a {
-    background-color: white; 
-    color: black; 
-    border: 2px solid red;
-}
-
-.seeallprojects a:hover {
+.seeallprojects:hover {
     background-color: red;
     color: white;
 }
-
-
 .projects {
     padding: 0px 125px 0px 125px;
     margin-top: 150px;
