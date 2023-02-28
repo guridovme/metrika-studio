@@ -139,14 +139,14 @@ h2 {
     text-decoration: none;
 }
 .services {
-    width: 1400px;
+    width: 1150px;
     background-color: #121212;
     padding: 0px 125px 0px 125px;
 }
 .service_item {
     width: 1150px;
-    height: 548px;
-    margin-bottom: 60px;
+    height: 270px;
+    padding-bottom: 60px;
 }
 .bottom_image{
     background-image: url(../images/bottom_image.png);
