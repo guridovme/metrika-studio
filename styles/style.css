@@ -94,7 +94,7 @@ h2 {
     border-radius: 5px;
     font-weight: 400;
     font-size: 30px;
-    line-height: 41px;
+    line-height: 153px;
     text-align: center;
     letter-spacing: -0.03em;
     color: #AD1818;
@@ -107,6 +107,7 @@ h2 {
 .projects {
     padding: 0px 125px 0px 125px;
     margin-top: 150px;
+    margin-bottom: 150px;
 }
 .projects h2 {
     margin-bottom: 30px;
@@ -139,7 +140,13 @@ h2 {
 }
 .services {
     width: 1400px;
-    background-color: #121212;;
+    background-color: #121212;
+    padding: 0px 125px 0px 125px;
+}
+.service_item {
+    width: 1150px;
+    height: 548px;
+    margin-bottom: 60px;
 }
 .bottom_image{
     background-image: url(../images/bottom_image.png);
