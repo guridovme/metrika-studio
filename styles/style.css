@@ -141,7 +141,15 @@ h2 {
 .services {
     width: 1150px;
     background-color: #121212;
-    padding: 0px 125px 0px 125px;
+    padding: 125px 125px 0px 125px;
+}
+.services h2{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
 .service_item {
     width: 1150px;
