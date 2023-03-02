@@ -154,7 +154,7 @@ h2 {
 }
 .service_item {
     width: 1150px;
-    padding-bottom: 60px;
+    margin-bottom: 60px;
 }
 .service_item:nth-last-child(1) {
     margin-bottom: 0;
