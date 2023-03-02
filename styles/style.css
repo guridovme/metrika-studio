@@ -156,6 +156,10 @@ h2 {
     width: 1150px;
     padding-bottom: 60px;
 }
+.service_item:nth-last-child(1) {
+    margin-bottom: 0;
+  }
+  
 .services h3{
     font-weight: 400;
     font-size: 30px;
