@@ -59,7 +59,8 @@ h2 {
     letter-spacing: -0.03em; 
 }
 .about {
-    padding: 0px 125px 0px 125px;
+    padding: 0px 125px;
+    margin-bottom: 150px;
 }
 .about_text {
     width: 1048px;
@@ -106,7 +107,6 @@ h2 {
 }
 .projects {
     padding: 0px 125px 0px 125px;
-    margin-top: 150px;
     margin-bottom: 150px;
 }
 .projects h2 {
