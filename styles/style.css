@@ -41,22 +41,23 @@ h2 {
     letter-spacing: -0.03em;
 }
 .main_image{
+    width: 1150px;
+    height: 500px;
+    box-sizing: border-box;
+    position: relative;
     background-image: url(../images/main_image.png);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 1150px;
-    height: 500px;
 }
 .main_image p {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
     width: 430px;
-    height: 81px;
-    padding-top: 379px;
-    padding-left: 40px;
-    padding-bottom: 40px;
+    color: #ffffff;
     font-size: 20px;
     line-height: 27px;
-    color: #fff;
-    letter-spacing: -0.03em; 
+    letter-spacing: -0.03em;
 }
 .about {
     padding: 0px 125px;
