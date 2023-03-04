@@ -178,6 +178,7 @@ h2 {
     position: relative;
 }
 .bottom_image p {
+    width: 443px;
     position: absolute;
     bottom: 60px;
     left: 125px;
