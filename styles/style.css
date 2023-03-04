@@ -181,10 +181,11 @@ h2 {
     position: absolute;
     bottom: 60px;
     left: 125px;
-    font-size: 20px;
-    line-height: 27px;
-    color: #fff;
-    letter-spacing: -0.03em; 
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
 }
 .contacts {
     width: 1400px;
