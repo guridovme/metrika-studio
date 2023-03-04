@@ -175,12 +175,12 @@ h2 {
     background-repeat: no-repeat;
     width: 1400px;
     height: 717px;
-    padding: 38px 40px;
-    margin: 0 auto;
-    box-sizing: border-box;
+    position: relative;
 }
 .bottom_image p {
-    padding: 340px 40px 40px 40px;
+    position: absolute;
+    bottom: 60px;
+    left: 125px;
     font-size: 20px;
     line-height: 27px;
     color: #fff;
