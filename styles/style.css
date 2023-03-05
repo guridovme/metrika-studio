@@ -89,6 +89,7 @@ h2 {
 .seeallprojects {
     width: 1150px;
     height: 153px;
+    box-sizing: border-box;
     display: block;
     border: 1px solid #AD1818;
     border-radius: 5px;
