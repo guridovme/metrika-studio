@@ -115,7 +115,6 @@ h2 {
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    letter-spacing: -0.03em;
     text-transform: uppercase;
     color: #000000;
 }
@@ -148,7 +147,6 @@ h2 {
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    letter-spacing: -0.03em;
     text-transform: uppercase;
     color: #FFFFFF;
     padding-bottom: 34px;
@@ -195,6 +193,13 @@ h2 {
     padding: 38px 40px;
     margin: 0 auto;
     box-sizing: border-box;
+}
+.contacts h2::after {
+content: '';
+display: block;
+width: 24px;
+height: 24PX;
+background-image: url(../images/phone-icon.png);
 }
 .footer {
     background-color: #333333;
