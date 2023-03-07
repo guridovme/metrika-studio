@@ -216,32 +216,27 @@ h2 {
     width: 1150px;
     height: 40px;
   }
-  
- 
+
+.logo-link {
+    display: inline-block;
+}
+
 .header-logo {
     display: block;
     float:left;
     width: 128px;
-    height: 23;
+    height: 23px;
 }
-  .header-bar ul {
+.menu {
     padding: 0px;
     margin: 0px;
     text-align: center;
     display:inline-block;
     vertical-align:top;
 }
+
   
-  .header-bar li {
-    list-style-type: none;
-    padding: 0px;
-    height: 24px;
-    margin-top: 4px;
-    margin-bottom: 4px;
-    display: inline;
-  }
-  
-  .header-bar li a {
+.header-bar a {
     text-decoration: none;
     line-height: 40px;
     padding: 5px 15px;
@@ -250,6 +245,6 @@ h2 {
     letter-spacing: -0.03em;
     text-transform: uppercase;
     color: #101010;
-  }
+}
   
   
