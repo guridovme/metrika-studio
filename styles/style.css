@@ -204,33 +204,35 @@ h2 {
 }
 /* ~~ Top Navigation Bar ~~ */
 
-.navigation-bar {
+.header-bar {
     height: 40px;
-    text-align:center;
-    margin-top: 26px;
     text-align: right;
+    margin-bottom: 60px;
   }
 
-#navigation-container {
-    width: 1150px;
+.header-container {
     margin: 0 auto;
+    padding-top: 26px;
+    width: 1150px;
     height: 40px;
-    margin-bottom: 60px;
   }
   
  
-  .navigation-bar img{
-  float:left;
-  }
-  .navigation-bar ul {
+.header-logo {
+    display: block;
+    float:left;
+    width: 128px;
+    height: 23;
+}
+  .header-bar ul {
     padding: 0px;
     margin: 0px;
     text-align: center;
     display:inline-block;
     vertical-align:top;
-  }
+}
   
-  .navigation-bar li {
+  .header-bar li {
     list-style-type: none;
     padding: 0px;
     height: 24px;
@@ -239,7 +241,7 @@ h2 {
     display: inline;
   }
   
-  .navigation-bar li a {
+  .header-bar li a {
     text-decoration: none;
     line-height: 40px;
     padding: 5px 15px;
