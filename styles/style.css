@@ -233,8 +233,8 @@ h2 {
 .menu__item {
     display: inline-block;
     text-decoration: none;
-    line-height: 40px;
-    padding: 5px 15px;
+    line-height: 23px;
+    padding: 0px 15px;
     font-weight: 400;
     font-size: 18px;
     letter-spacing: -0.03em;
