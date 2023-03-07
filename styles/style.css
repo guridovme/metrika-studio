@@ -235,9 +235,6 @@ h2 {
 .menu__item {
 
     display: inline-block;
-}
-  
-.header-bar a {
     text-decoration: none;
     line-height: 40px;
     padding: 5px 15px;
