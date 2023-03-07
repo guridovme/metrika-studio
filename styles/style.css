@@ -199,7 +199,7 @@ content: '';
 display: block;
 width: 24px;
 height: 24PX;
-background-image: url(../images/phone-icon.png);
+background-image: url(../images/phone_icon.png);
 }
 .footer {
     background-color: #333333;
