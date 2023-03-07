@@ -244,6 +244,6 @@ a.menu__item:hover {
 }  
 
 .menu__item:nth-last-child(1) {
-    margin-bottom: 0;
+    padding-right: 0;
 }
   
