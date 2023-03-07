@@ -205,15 +205,14 @@ h2 {
 /* ~~ Top Navigation Bar ~~ */
 
 .header-bar {
-    margin-bottom: 60px;
+    margin-bottom: 70px;
   }
 
 .header-container {
     margin: 0 auto;
     padding-top: 26px;
     width: 1150px;
-    height: 40px;
-  }
+}
 
 .logo-link {
     display: inline-block;
