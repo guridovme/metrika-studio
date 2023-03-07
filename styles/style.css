@@ -226,6 +226,7 @@ h2 {
 .menu {
     display:inline-block;
     vertical-align:top;
+    float: right;
 }
 .menu__item {
     display: inline-block;
