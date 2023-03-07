@@ -237,10 +237,15 @@ h2 {
     font-size: 18px;
     letter-spacing: -0.03em;
     text-transform: uppercase;
-    color: #101010;
+    color: #121212;
 }
-a.menu__item:hover {
+.menu__item:hover {
     text-decoration: underline;
+    opacity: 0.5;
+}  
+.menu__item:active {
+    text-decoration: underline;
+    opacity: 0.5;
 }  
 
 .menu__item:nth-last-child(1) {
