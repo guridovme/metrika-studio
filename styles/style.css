@@ -224,9 +224,6 @@ h2 {
     height: 23px;
 }
 .menu {
-    padding: 0px;
-    margin: 0px;
-    text-align: center;
     display:inline-block;
     vertical-align:top;
 }
@@ -241,5 +238,7 @@ h2 {
     text-transform: uppercase;
     color: #101010;
 }
-  
+a.menu__item:hover {
+    text-decoration: underline;
+}  
   
