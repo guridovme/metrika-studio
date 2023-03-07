@@ -234,7 +234,10 @@ h2 {
     display:inline-block;
     vertical-align:top;
 }
+.menu__item {
 
+    display: inline-block;
+}
   
 .header-bar a {
     text-decoration: none;
