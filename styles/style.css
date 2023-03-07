@@ -206,7 +206,7 @@ h2 {
 
 .header-bar {
     margin-bottom: 70px;
-  }
+}
 
 .header-container {
     margin: 0 auto;
@@ -242,4 +242,8 @@ h2 {
 a.menu__item:hover {
     text-decoration: underline;
 }  
+
+.menu__item:nth-last-child(1) {
+    margin-bottom: 0;
+}
   
