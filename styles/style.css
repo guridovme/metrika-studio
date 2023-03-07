@@ -214,11 +214,9 @@ h2 {
     width: 1150px;
     height: 25px;
 }
-
 .logo-link {
     display: inline-block;
 }
-
 .header-logo {
     display: block;
     float:left;
@@ -233,7 +231,6 @@ h2 {
     vertical-align:top;
 }
 .menu__item {
-
     display: inline-block;
     text-decoration: none;
     line-height: 40px;
