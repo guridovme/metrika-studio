@@ -213,18 +213,20 @@ h2 {
     opacity: 0.5;
 }
 .footer {
-    background-color: #333333;
+    background-color: #121212;;
     height: 229px;
     padding: 38px 40px;
     margin: 0 auto;
     box-sizing: border-box;
 }
+
+
 .copyright {
     font-size: 20px;
     line-height: 27px;
-    letter-spacing: -0.03em;
     color: #FFFFFF;
     opacity: 0.5;
+    text-align: center;
 }
 
 /* ~~ Top Navigation Bar ~~ */
