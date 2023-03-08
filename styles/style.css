@@ -187,12 +187,16 @@ h2 {
     margin: 0 auto;
     box-sizing: border-box;
 }
+.contacts h2{
+    margin-bottom: 32px;
+}
 .contacts h2::before {
     content: '';
     display: block;
     width: 24px;
     height: 24PX;
     background-image: url(../images/phone_icon.png);
+    margin-bottom: 12px;
 }
 .footer {
     background-color: #333333;
