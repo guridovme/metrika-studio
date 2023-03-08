@@ -209,6 +209,7 @@ h2 {
     letter-spacing: -0.03em;
     color: #121212;
     text-decoration: none;
+    display: block;
 }
 .email {
     font-size: 60px;
