@@ -230,7 +230,7 @@ h2 {
     display: inline-block;
     text-decoration: none;
     line-height: 23px;
-    padding: 0px 15px;
+    margin: 0px 15px;
     font-weight: 400;
     font-size: 18px;
     text-transform: uppercase;
@@ -246,6 +246,6 @@ h2 {
 }  
 
 .menu__item:nth-last-child(1) {
-    padding-right: 0;
+    margin-right: 0;
 }
   
