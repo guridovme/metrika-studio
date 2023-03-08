@@ -200,9 +200,7 @@ h2 {
 }
 .phone  {
     font-size: 60px;
-    line-height: 60px;
     margin-bottom: 30px;
-    font-weight: 400;
     letter-spacing: -0.03em;
     color: #121212;
     text-decoration: none;
@@ -210,12 +208,10 @@ h2 {
 }
 .email {
     font-size: 60px;
-    line-height: 60px;
-    font-weight: 400;
     letter-spacing: -0.03em;
     color: #121212;
     text-decoration: none;
-    border-bottom: 1px solid #121212;
+    border-bottom: 2px solid #121212;
     opacity: 0.5;
 }
 .footer {
