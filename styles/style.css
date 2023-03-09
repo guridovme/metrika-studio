@@ -215,7 +215,7 @@ h2 {
 .footer {
     background-color: #121212;;
     height: 229px;
-    padding: 38px 40px;
+    padding-bottom: 30px;
     margin: 0 auto;
     box-sizing: border-box;
 }
