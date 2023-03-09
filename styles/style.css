@@ -232,7 +232,14 @@ h2 {
     line-height: 25px;
     letter-spacing: -0.03em;
     text-transform: uppercase;
+    text-decoration: none;
 }
+.footer_menu_item:hover {
+    opacity: 0.5;
+}  
+.footer_menu_item:active {
+    opacity: 0.5;
+}  
 .footer_menu_item:nth-last-child(1) {
     margin-right: 0;
 }
