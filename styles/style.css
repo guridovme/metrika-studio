@@ -219,9 +219,7 @@ h2 {
 }
 .footer {
     width: 450px;
-    height: 229px;
     margin: 0 auto;
-    box-sizing: border-box;
 }
 .footer_menu {
     display:inline-block;
@@ -234,6 +232,9 @@ h2 {
     line-height: 25px;
     letter-spacing: -0.03em;
     text-transform: uppercase;
+}
+.footer_menu_item:nth-last-child(1) {
+    margin-right: 0;
 }
 .copyright {
     font-size: 20px;
