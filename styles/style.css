@@ -213,6 +213,8 @@ h2 {
     opacity: 0.5;
 }
 .footer_wrapper {
+    padding-top: 60px;
+    padding-bottom: 30px;
     background-color: #121212;
 }
 .footer {
@@ -222,11 +224,12 @@ h2 {
     box-sizing: border-box;
 }
 .footer_menu {
-    
     display:inline-block;
-    
+    margin-bottom: 87px;
 }
-
+.footer_menu_item{
+    margin-right: 55px;
+}
 .copyright {
     font-size: 20px;
     line-height: 27px;
