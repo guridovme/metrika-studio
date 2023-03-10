@@ -274,6 +274,7 @@ h2 {
 }
 
 .header-container {
+    position: relative;
     margin: 0 auto;
     padding-top: 33px;
     width: 1150px;
@@ -284,9 +285,8 @@ h2 {
 }
 .header-logo {
     display: block;
-    float:left;
-    width: 128px;
-    height: 23px;
+    top: 32px;
+    position: absolute;    
 }
 .menu {
     display:inline-block;
