@@ -52,8 +52,7 @@ h2 {
     left: 40px;
     width: 430px;
     color: #ffffff;
-    font-size: 20px;
-    line-height: 27px;
+    letter-spacing: -0.03em;
     }
 .about {
     padding: 0px 125px;
@@ -66,10 +65,10 @@ h2 {
     width: 1048px;
     height: 366px;
     margin-bottom: 30px;
-    font-weight: 400;
     font-size: 45px;
     line-height: 61px;
     color: #000000;
+    letter-spacing: -0.03em;
 }
 .viewservices{
     display: block;
@@ -120,18 +119,18 @@ h2 {
     margin-bottom: 90px;
 }
 .project_item h3{
-    font-weight: 400;
     font-size: 30px;
-    line-height: 41px;
+    line-height: 37px;
     margin: 15px 0 15px;
     text-transform: uppercase;
+    letter-spacing: -0.03em;
 }
 .project_item a {
-    font-weight: 400;
     font-size: 20px;
-    line-height: 27px;
+    line-height: 31px;
     color: #AD1818;
     text-decoration: none;
+    letter-spacing: -0.03em;
 }
 .services {
     width: 1150px;
@@ -259,9 +258,9 @@ h2 {
 
 .header-container {
     margin: 0 auto;
-    padding-top: 32px;
+    padding-top: 33px;
     width: 1150px;
-    height: 23px;
+    height: 25px;
 }
 .logo-link {
     display: inline-block;
@@ -280,8 +279,8 @@ h2 {
 .menu__item {
     display: inline-block;
     text-decoration: none;
-    line-height: 23px;
-    margin: 0px 30px;
+    line-height: 25px;
+    margin-right: 57px;
     font-weight: 400;
     font-size: 18px;
     text-transform: uppercase;
