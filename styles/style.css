@@ -276,7 +276,7 @@ h2 {
 .header-container {
     position: relative;
     margin: 0 auto;
-    padding-top: 33px;
+    padding: 33px 0px 70px 0px;
     width: 1150px;
     height: 25px;
 }
