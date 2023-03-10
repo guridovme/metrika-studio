@@ -286,8 +286,7 @@ h2 {
 .header-logo {
     display: block;
     top: 32px;
-    position: absolute;
-    top: 32px;    
+    position: absolute;   
 }
 .menu {
     display:inline-block;
