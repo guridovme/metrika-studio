@@ -155,11 +155,12 @@ h2 {
   }
   
 .services h3{
-    font-weight: 400;
     font-size: 30px;
     line-height: 41px;
     color: #FFFFFF;
-    padding-top: 15px;
+    padding-top: 13px;
+    letter-spacing: -0.03em;
+    padding-left: 5px;
 }
 .bottom_image{
     background-image: url(../images/bottom_image.png);
