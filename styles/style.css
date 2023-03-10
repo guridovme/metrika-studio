@@ -26,7 +26,7 @@ h2 {
 }
 .main {
     width: 1150px;
-    margin-bottom: 0 auto 150px auto;
+    margin: 0 auto 150px auto;
 }
 .main h1 {
     width: 956px;
