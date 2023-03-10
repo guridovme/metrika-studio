@@ -244,11 +244,10 @@ h2 {
     margin-bottom: 87px;
 }
 .footer_menu_item{
-    margin-right: 53px;
+    margin-right: 52px;
     color: #ffffff;
     font-size: 18px;
     line-height: 25px;
-    letter-spacing: -0.03em;
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -262,12 +261,9 @@ h2 {
     margin-right: 0;
 }
 .copyright {
-    font-size: 20px;
-    line-height: 27px;
     color: #FFFFFF;
     opacity: 0.5;
     text-align: center;
-    letter-spacing: -0.03em;
 }
 
 /* ~~ Top Navigation Bar ~~ */
