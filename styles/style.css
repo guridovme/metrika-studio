@@ -176,10 +176,10 @@ h2 {
     position: absolute;
     bottom: 60px;
     left: 125px;
-    font-weight: 400;
     font-size: 30px;
     line-height: 41px;
     color: #FFFFFF;
+    letter-spacing: -0.03em;
 }
 .contacts {
     height: 553px;
@@ -193,14 +193,14 @@ h2 {
     content: '';
     display: block;
     width: 24px;
-    height: 24PX;
+    height: 24px;
     background-image: url(../images/phone_icon.png);
-    margin-bottom: 12px;
+    margin-bottom: 11px;
+    margin-left: -5px;
 }
 .phone  {
     font-size: 60px;
-    margin-bottom: 30px;
-    letter-spacing: -0.03em;
+    margin-bottom: 28px;
     color: #121212;
     text-decoration: none;
     display: block;
@@ -219,7 +219,7 @@ h2 {
     background-color: #121212;
 }
 .footer {
-    width: 450px;
+    width: 460px;
     margin: 0 auto;
 }
 .footer_menu {
@@ -250,6 +250,7 @@ h2 {
     color: #FFFFFF;
     opacity: 0.5;
     text-align: center;
+    letter-spacing: -0.03em;
 }
 
 /* ~~ Top Navigation Bar ~~ */
