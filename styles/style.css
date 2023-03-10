@@ -290,8 +290,8 @@ h2 {
 }
 .menu {
     display:inline-block;
-    vertical-align:top;
-    float: right;
+    position: absolute;
+    left: 686px;
 }
 .menu__item {
     display: inline-block;
