@@ -1,9 +1,7 @@
 html {scroll-behavior: smooth;}
 body {
-    margin: 0 auto;
     font-family: 'Manrope', sans-serif;
-    letter-spacing: -0.03em;
-    width: 1400px;
+    letter-spacing: -0.03em;    
 }
 p {
     font-weight: 400;
@@ -27,8 +25,8 @@ h2 {
     color: #000000;
 }
 .main {
-    padding: 0px 125px;
-    margin-bottom: 150px;
+    width: 1150px;
+    margin-bottom: 0 auto 150px auto;
 }
 .main h1 {
     width: 956px;
@@ -55,8 +53,8 @@ h2 {
     letter-spacing: -0.03em;
     }
 .about {
-    padding: 0px 125px;
-    margin-bottom: 150px;
+    width: 1150px;
+    margin: 0px auto 150px auto;
 }
 .about h2{
     margin-bottom: 30px;
@@ -103,8 +101,8 @@ h2 {
     color: white;
 }
 .projects {
-    padding: 0px 125px 0px 125px;
-    margin-bottom: 150px;
+    width: 1150px;
+    margin: 0 auto 150px auto;
 }
 .projects h2 {
     margin-bottom: 30px;
@@ -133,10 +131,13 @@ h2 {
     text-decoration: none;
     letter-spacing: -0.03em;
 }
+.services_wrapper{
+    background-color: #121212;
+    padding: 150px 0px;
+}
 .services {
     width: 1150px;
-    background-color: #121212;
-    padding: 150px 125px;
+    margin: 0 auto;
 }
 .services h2{
     font-weight: 400;
@@ -164,10 +165,9 @@ h2 {
 }
 .bottom_image{
     background-image: url(../images/bottom_image.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50%;
-    width: 1400px;
+    background-position: 50% 50%;
     height: 717px;
     position: relative;
 }
@@ -175,16 +175,18 @@ h2 {
     width: 443px;
     position: absolute;
     bottom: 60px;
-    left: 125px;
+    left: 325px;
     font-size: 30px;
     line-height: 41px;
     color: #FFFFFF;
     letter-spacing: -0.03em;
 }
 .contacts {
+    width:1150px;
     height: 553px;
-    padding:150px 125px;
+    padding:150px 0px;
     box-sizing: border-box;
+    margin: 0 auto;
 }
 .contacts h2{
     margin-bottom: 30px;
