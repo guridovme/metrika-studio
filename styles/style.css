@@ -34,8 +34,6 @@ h2 {
 .main h1 {
     width: 956px;
     height: 120px;
-    font-size: 60px;
-    line-height: 60px;
     margin-bottom: 30px;
 }
 .main_image{
@@ -53,8 +51,8 @@ h2 {
     left: 40px;
     width: 430px;
     color: #ffffff;
-    letter-spacing: -0.03em;
-    }
+    
+}
 .about {
     width: 1150px;
     margin: 0px auto 150px auto;
