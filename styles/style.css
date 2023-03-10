@@ -1,5 +1,8 @@
 html {scroll-behavior: smooth;}
 body {
+    margin: 0 auto;
+    width: 1400px;
+    min-width: 100%;
     font-family: 'Manrope', sans-serif;
     letter-spacing: -0.03em;    
 }
