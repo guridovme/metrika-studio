@@ -171,11 +171,14 @@ h2 {
     background-position: 50% 50%;
     position: relative;
 }
+.bottom_wrapper {
+    width: 1150px;
+    margin: 0 auto;
+}
 .bottom_image p {
     width: 443px;
     position: absolute;
     bottom: 60px;
-    left: 325px;
     font-size: 30px;
     line-height: 41px;
     color: #FFFFFF;
