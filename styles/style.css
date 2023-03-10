@@ -96,6 +96,7 @@ h2 {
     text-align: center;
     color: #AD1818;
     text-decoration: none;    
+    letter-spacing: -0.03em;
 }
 .seeallprojects:hover {
     background-color: #ad1818;;
