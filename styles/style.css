@@ -27,6 +27,13 @@ h2 {
     text-transform: uppercase;
     color: #000000;
 }
+h3 {
+    font-size: 30px;
+    line-height: 37px;
+    margin: 15px 0 15px;
+    text-transform: uppercase;
+    letter-spacing: -0.03em;
+}
 .main {
     width: 1150px;
     margin: 0 auto 150px auto;
@@ -107,11 +114,6 @@ h2 {
 }
 .projects h2 {
     margin-bottom: 30px;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 25px;
-    text-transform: uppercase;
-    color: #000000;
 }
 .project_item {
     width: 1150px;
@@ -142,10 +144,6 @@ h2 {
     margin: 0 auto;
 }
 .services h2{
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 25px;
-    text-transform: uppercase;
     color: #FFFFFF;
     padding-bottom: 34px;
 }
