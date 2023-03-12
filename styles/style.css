@@ -156,7 +156,7 @@ h3 {
     padding-top: 13px;
     padding-left: 5px;
 }
-.fullWidthImage{
+.full-width {
     min-width: 1150px;
     height: 717px;
     background-image: url(../images/bottom_image.png);
@@ -166,11 +166,11 @@ h3 {
     position: relative;
 
 }
-.image_wrapper {
+.full-width-wrapper {
     width: 1150px;
     margin: 0 auto;
 }
-.fullWidthImage p {
+.full-width p {
     width: 443px;
     position: absolute;
     bottom: 60px;
