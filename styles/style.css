@@ -63,7 +63,7 @@ h3 {
 .about h2{
     margin-bottom: 30px;
 }
-.about_text {
+.about-text {
     width: 1048px;
     height: 366px;
     margin-bottom: 30px;
@@ -128,7 +128,7 @@ h3 {
     text-decoration: none;
     letter-spacing: -0.03em;
 }
-.services_wrapper{
+.services-background{
     min-width: 1150px;
     background-color: #121212;
     padding: 150px 0px;
