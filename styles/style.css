@@ -1,3 +1,17 @@
+@media (max-width: 374px) {
+    .container{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+}
+@media (max-width: 575px) {
+    .container{
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+
+}
 @media (max-width: 1199px) {
     .container{
         width: 100%;
@@ -6,23 +20,6 @@
     }
 
 }
-
-@media (max-width: 575px) {
-    .container{
-        padding-left: 17px;
-        padding-right: 17px;
-    }
-
-}
-
-@media (max-width: 374px) {
-    .container{
-        padding-left: 13px;
-        padding-right: 13px;
-    }
-
-}
-
 html {scroll-behavior: smooth;}
 body {
     font-family: 'Manrope', sans-serif;
