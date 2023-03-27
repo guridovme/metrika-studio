@@ -4,7 +4,7 @@
         padding-right: 13px;
     }
 }
-@media (max-width: 575px) {
+@media (max-width: 959px) {
     .container{
         padding-left: 17px;
         padding-right: 17px;
