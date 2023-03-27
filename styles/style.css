@@ -325,14 +325,15 @@ h3 {
         width: 928px;
         height: 400px;
         background-image: url(../images/main_image_928.png);    
+        background-repeat: no-repeat;
+        background-size: cover;
     }
     .first-screen-image p {
         bottom: 30px;
         position: absolute;
-    
-    left: 40px;
-    width: 430px;
-    color: #ffffff;
+        left: 40px;
+        width: 430px;
+        color: #ffffff;
 
         
     }
