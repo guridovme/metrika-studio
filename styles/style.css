@@ -313,7 +313,6 @@ h3 {
     .container{
         padding-left: 17px;
         padding-right: 17px;
-        
     }
     h1{
         width: 100%;
@@ -330,9 +329,7 @@ h3 {
         position: absolute;
         left: 40px;
         width: 430px;
-        color: #ffffff;
-
-        
+        color: #ffffff;   
     }
 }
 
@@ -341,6 +338,23 @@ h3 {
         padding-left: 13px;
         padding-right: 13px;
     }
-   
+    h1{
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .first-screen-image{
+        height: 400px;
+        background-image: url(../images/main_image_928.png);    
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .first-screen-image p {
+        bottom: 30px;
+        position: absolute;
+        left: 40px;
+        width: 430px;
+        font-size: 16px;
+        line-height: 22px;   
+    }
 
 }
