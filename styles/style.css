@@ -1,24 +1,4 @@
-@media (max-width: 374px) {
-    .container{
-        padding-left: 13px;
-        padding-right: 13px;
-    }
-}
-@media (max-width: 959px) {
-    .container{
-        padding-left: 17px;
-        padding-right: 17px;
-    }
 
-}
-@media (max-width: 1199px) {
-    .container{
-        width: 100%;
-        padding-left: 125px;
-        padding-right: 125px;
-    }
-
-}
 html {scroll-behavior: smooth;}
 body {
     font-family: 'Manrope', sans-serif;
@@ -325,3 +305,24 @@ h3 {
     margin-right: 0;
 }
   
+@media (max-width: 374px) {
+    .container{
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+}
+@media (max-width: 959px) {
+    .container{
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+
+}
+@media (max-width: 1199px) {
+    .container{
+        width: 100%;
+        padding-left: 125px;
+        padding-right: 125px;
+    }
+
+}
