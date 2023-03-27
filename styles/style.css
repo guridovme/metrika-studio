@@ -315,13 +315,29 @@ h3 {
     .container{
         padding-left: 17px;
         padding-right: 17px;
+        
     }
+    h1{
+        width: 802px;
+        font-size: 50px;
+    }
+    .first-screen-image{
+        width: 928px;
+        height: 400px;
+        background-image: url(../images/main_image_928.png);    
+    }
+    .first-screen-image p {
+        bottom: 30px;
 
+        
+    }
 }
+
 @media (max-width: 374px) {
     .container{
         padding-left: 13px;
         padding-right: 13px;
     }
-}
+   
 
+}
