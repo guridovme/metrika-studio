@@ -329,6 +329,7 @@ h3 {
     }
     .about {
         margin: 0px auto 120px auto;
+        width: 100%;
     }
     .about h2{
         margin-bottom: 30px;
