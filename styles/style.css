@@ -378,6 +378,7 @@ h3 {
 
     }
     .first-screen-image p {
+        width: 100%;
         bottom: 15px;
         position: absolute;
         left: 15px;
