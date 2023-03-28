@@ -344,15 +344,15 @@ h3 {
     }
     .first-screen-image{
         height: 400px;
-        background-image: url(../images/main_image_928.png);    
+        background-image: url(../images/main_image_350.png);    
         background-repeat: no-repeat;
         background-size: cover;
     }
     .first-screen-image p {
-        bottom: 30px;
+        bottom: 15px;
         position: absolute;
-        left: 40px;
-        width: 430px;
+        left: 15px;
+        width: 312px;
         font-size: 16px;
         line-height: 22px;   
     }
