@@ -331,6 +331,37 @@ h3 {
         width: 430px;
         color: #ffffff;   
     }
+    .about {
+        width: 1150px;
+        margin: 0px auto 120px auto;
+    }
+    .about h2{
+        margin-bottom: 30px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .about-text {
+        width: 1048px;
+        height: 366px;
+        margin-bottom: 30px;
+        font-size: 35px;
+        line-height: 48px;
+        color: #000000;
+        letter-spacing: -0.03em;
+    }
+    .viewservices{
+        display: block;
+        width: 255px;
+        height: 67px;
+        text-align: center;
+        line-height: 67px;
+        font-weight: 400;
+        font-size: 20px;
+        background-color: #ad1818;
+        text-decoration: none;
+        border-radius: 5px;
+        color: #fff;
+    }
 }
 
 @media (max-width: 374px) {
@@ -355,6 +386,37 @@ h3 {
         width: 312px;
         font-size: 16px;
         line-height: 22px;   
+    }
+    .about {
+        width: 1150px;
+        margin: 0px auto 120px auto;
+    }
+    .about h2{
+        margin-bottom: 30px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .about-text {
+        width: 1048px;
+        height: 366px;
+        margin-bottom: 30px;
+        font-size: 35px;
+        line-height: 48px;
+        color: #000000;
+        letter-spacing: -0.03em;
+    }
+    .viewservices{
+        display: block;
+        width: 255px;
+        height: 67px;
+        text-align: center;
+        line-height: 67px;
+        font-weight: 400;
+        font-size: 20px;
+        background-color: #ad1818;
+        text-decoration: none;
+        border-radius: 5px;
+        color: #fff;
     }
 
 }
