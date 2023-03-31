@@ -363,10 +363,14 @@ h3 {
         margin: 0px auto 103px auto;
     }
     .project_item {
-        margin-bottom: 90px;
+        margin-bottom: 80px;
         height: 100%;
         width: 100%;
     }
+    .service_item:nth-last-child(1) {
+        margin-bottom: 102;
+    }
+    
     .project_item img {
         width: 100%;
         display: block;
@@ -447,6 +451,9 @@ h3 {
     }
     .project_item {
         margin-bottom: 49px;
+    }
+    .service_item:nth-last-child(1) {
+        margin-bottom: 60;
     }
     .projects h2 {
         margin-bottom: 20px;
