@@ -374,6 +374,9 @@ h3 {
         font-size: 20px;
         line-height: 27px;
     }
+    .seeallprojects {
+        width: 100%;
+    }
 }
 
 @media (max-width: 374px) {
@@ -435,5 +438,22 @@ h3 {
     .projects {
         width: 100%;
         margin: 0px auto 144px auto;
+    }
+    .project_item {
+        margin-bottom: 49px;
+    }
+    .projects h2 {
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .project_item h3{
+        font-size: 18px;
+        line-height: 25px;
+        margin: 20px 0 11px 0;
+    }
+    .project_item a{
+        font-size: 16px;
+        line-height: 22px;
     }
 }
