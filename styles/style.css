@@ -368,7 +368,7 @@ h3 {
         width: 100%;
     }
     .project_item:nth-last-child(1) {
-        margin-bottom: 102;
+        margin-bottom: 102px;
     }
     
     .project_item img {
@@ -453,7 +453,7 @@ h3 {
         margin-bottom: 49px;
     }
     .project_item:nth-last-child(1) {
-        margin-bottom: 60;
+        margin-bottom: 60px;
     }
     .projects h2 {
         margin-bottom: 20px;
