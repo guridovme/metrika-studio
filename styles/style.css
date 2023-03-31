@@ -367,7 +367,7 @@ h3 {
         height: 100%;
         width: 100%;
     }
-    .service_item:nth-last-child(1) {
+    .project_item:nth-last-child(1) {
         margin-bottom: 102;
     }
     
@@ -452,7 +452,7 @@ h3 {
     .project_item {
         margin-bottom: 49px;
     }
-    .service_item:nth-last-child(1) {
+    .project_item:nth-last-child(1) {
         margin-bottom: 60;
     }
     .projects h2 {
