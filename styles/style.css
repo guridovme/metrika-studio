@@ -316,7 +316,7 @@ h3 {
     }
     .first-screen-image{
         height: 400px;
-        background-image: url(../images/main_image_928.png);    
+           
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -400,7 +400,7 @@ h3 {
     }
     .first-screen-image{
         height: 400px;
-        background-image: url(../images/main_image_350.png);    
+        
         background-repeat: no-repeat;
         background-size: cover;
         margin-bottom: 80px;
