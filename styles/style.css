@@ -60,7 +60,6 @@ h3 {
 }
 .about-text {
     width: 1048px;
-    height: 366px;
     margin-bottom: 30px;
     font-size: 45px;
     line-height: 61px;
@@ -339,7 +338,6 @@ h3 {
     }
     .about-text {
         width: 100%;
-        height: 100%;
         margin-bottom: 30px;
         font-size: 35px;
         line-height: 48px;
@@ -426,7 +424,6 @@ h3 {
     }
     .about-text {
         width: 100%;
-        height: 100%;
         margin-bottom: 30px;
         font-size: 22px;
         line-height: 30px;
