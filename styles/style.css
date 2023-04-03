@@ -131,6 +131,12 @@ h3 {
     width: 1150px;
     margin: 0 auto;
 }
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #FFFFFF;
+    
+}
 .services h2{
     color: #FFFFFF;
     padding-bottom: 34px;
