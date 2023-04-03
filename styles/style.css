@@ -321,6 +321,7 @@ h3 {
         background-size: cover;
     }
     .first-screen-image p {
+        max-width: 430px;
         bottom: 30px;
         position: absolute;
         left: 40px;
@@ -407,7 +408,7 @@ h3 {
 
     }
     .first-screen-image p {
-        width: 100%;
+        max-width: 312px;
         bottom: 15px;
         position: absolute;
         left: 15px;
