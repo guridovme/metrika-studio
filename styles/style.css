@@ -318,6 +318,7 @@ h3 {
 }  
 @media (max-width: 959px) {
     .container{
+        width: 100%;
         padding-left: 17px;
         padding-right: 17px;
     }
@@ -497,5 +498,10 @@ h3 {
     .services {
         width: 100%;
         
+    }
+    .boxes-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
     }
 }
