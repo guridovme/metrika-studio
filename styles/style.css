@@ -398,7 +398,7 @@ h3 {
         width: 100%;
     }
     .services-background{
-        min-width: 768px;
+        min-width: 959px;
     }
     .services{
         width: 100%;
@@ -491,7 +491,7 @@ h3 {
     }
 
     .services-background{
-        
+        min-width: 374px;
     }
     .services {
         width: 100%;
