@@ -507,4 +507,9 @@ h3 {
         justify-content: center;
         margin: 0 auto;;
     }
+    .box{
+        width: 100%;
+    max-width: 749px;
+    margin: 0 auto 60px auto;
+    }
 }
