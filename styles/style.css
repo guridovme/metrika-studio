@@ -131,6 +131,11 @@ h3 {
     width: 1150px;
     margin: 0 auto;
 }
+
+.boxes-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
 .box{
     width: 200px;
     height: 200px;
@@ -392,6 +397,9 @@ h3 {
     .seeallprojects {
         width: 100%;
     }
+    .services{
+        width: 100%;
+    }
 }
 
 @media (max-width: 374px) {
@@ -477,5 +485,9 @@ h3 {
         height: 100%;
         font-size: 22px;
         line-height: 100px;
+    }
+    .services {
+        width: 100%;
+        
     }
 }
