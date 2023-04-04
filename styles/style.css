@@ -509,7 +509,6 @@ h3 {
     }
     .box{
         width: 100%;
-    max-width: 749px;
-    margin: 0 auto 60px auto;
+        max-width: 749px;
     }
 }
