@@ -140,7 +140,7 @@ h3 {
 .box{
     width: calc(50% - 10px);
     height: 200px;
-    background-color: #FFFFFF;
+    background-color: red;
     
 }
 .services h2{
