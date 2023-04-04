@@ -137,7 +137,7 @@ h3 {
     justify-content: space-between;
 }
 .box{
-    width: calc(50%-10px);
+    width: calc(50% - 10px);
     height: 200px;
     background-color: #FFFFFF;
     
