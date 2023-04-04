@@ -409,6 +409,7 @@ h3 {
 
 @media (max-width: 374px) {
     .container{
+        min-width: 350px;
         padding-left: 13px;
         padding-right: 13px;
     }
