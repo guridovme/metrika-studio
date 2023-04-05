@@ -131,26 +131,26 @@ h3 {
     margin: 0 auto;
 }
 
-.boxes-wrapper{
+.services-wrapper{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
 }
-.box{
+.service-wrapper{
     width: calc(50% - 10px);
     height: 200px;
     background-color: #ffffff;
 }
-.label-wrapper{
+.price-wrapper{
     padding-top: 31px;
     padding-left: 32px;
 }
-.label{
-    height: 30px;
+.price{
     padding: 5px 20px 5px 20px;
     background-color: #AD1818;
     color: #ffffff;
     display: inline-table;
+    border-radius: 5px;
 }
 .services h2{
     color: #FFFFFF;
