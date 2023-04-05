@@ -135,10 +135,14 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     row-gap: 85px;
+    justify-content: space-between;
 }
 .service-wrapper{
     position: relative;
     width: calc(50% - 10px);
+}
+.service-wrapper img{
+    width: 100%;
 }
 .price{
     position: absolute;
