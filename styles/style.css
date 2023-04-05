@@ -139,7 +139,7 @@ h3 {
 }
 .service-wrapper{
     position: relative;
-    width: calc(50% - 10px);
+    width: calc(50% - 5px);
 }
 .service-wrapper img{
     width: 100%;
