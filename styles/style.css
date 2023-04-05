@@ -137,20 +137,21 @@ h3 {
     gap: 20px;
 }
 .service-wrapper{
+    position: relative;
     width: calc(50% - 10px);
     height: 200px;
     background-color: #ffffff;
+
 }
-.price-wrapper{
-    padding-top: 31px;
-    padding-left: 32px;
-}
+
 .price{
+    position: absolute;
+    top: 31px;
+    left: 32px;
     padding: 5px 20px 5px 20px;
     background-color: #AD1818;
-    color: #ffffff;
-    display: inline-table;
     border-radius: 5px;
+    color: #ffffff;    
 }
 .services h2{
     color: #FFFFFF;
