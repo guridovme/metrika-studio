@@ -139,11 +139,7 @@ h3 {
 .service-wrapper{
     position: relative;
     width: calc(50% - 10px);
-    height: 200px;
-    background-color: #ffffff;
-
 }
-
 .price{
     position: absolute;
     top: 31px;
