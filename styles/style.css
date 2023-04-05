@@ -95,7 +95,7 @@ h3 {
     letter-spacing: -0.03em;
 }
 .seeallprojects:hover {
-    background-color: #ad1818;;
+    background-color: #ad1818;
     color: white;
 }
 .projects {
@@ -155,19 +155,18 @@ h3 {
     height: 153px;
     box-sizing: border-box;
     display: block;
-    border: 1px solid #AD1818;
     border-radius: 5px;
     font-weight: 400;
     font-size: 30px;
     line-height: 153px;
     text-align: center;
-    color: #AD1818;
+    background-color: #AD1818;;
     text-decoration: none;    
     letter-spacing: -0.03em;
 }
 .orderservice:hover {
-    background-color: #ad1818;;
-    color: white;
+    background-color: #ffffff;
+    color: #AD1818;
 }
 .services h2{
     color: #FFFFFF;
