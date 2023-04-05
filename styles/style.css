@@ -130,13 +130,11 @@ h3 {
     width: 1150px;
     margin: 0 auto;
 }
-
 .services-wrapper{
     margin-bottom: 106px;
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
-    
+    row-gap: 85px;
 }
 .service-wrapper{
     position: relative;
