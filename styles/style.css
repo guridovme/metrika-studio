@@ -132,9 +132,11 @@ h3 {
 }
 
 .services-wrapper{
+    margin-bottom: 106px;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    
 }
 .service-wrapper{
     position: relative;
@@ -183,8 +185,8 @@ h3 {
 .services h3{
     line-height: 41px;
     color: #FFFFFF;
-    padding-top: 13px;
-    padding-left: 5px;
+    margin-top: 25px;
+    
 }
 .full-width {
     min-width: 1150px;
