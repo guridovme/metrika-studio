@@ -310,8 +310,86 @@ h3 {
 @media (max-width: 1199px) {
     .container{
         width: 100%;
-        padding-left: 125px;
-        padding-right: 125px;
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+    h1{
+        width: 100%;
+        font-size: 50px;
+    }
+    .first-screen-image{
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .first-screen-image p {
+        max-width: 430px;
+        bottom: 30px;
+        position: absolute;
+        left: 40px;
+        width: 430px;
+        color: #ffffff;   
+    }
+    .about {
+        margin: 0px auto 120px auto;
+        width: 100%;
+    }
+    .about h2{
+        margin-bottom: 30px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .about-text {
+        width: 100%;
+        margin-bottom: 30px;
+        font-size: 35px;
+        line-height: 48px;
+        color: #000000;
+        letter-spacing: -0.03em;
+    }
+    .viewservices{
+        display: block;
+        width: 255px;
+        height: 67px;
+        text-align: center;
+        line-height: 67px;
+        font-weight: 400;
+        font-size: 20px;
+        background-color: #ad1818;
+        text-decoration: none;
+        border-radius: 5px;
+        color: #fff;
+    }
+    .projects{
+        width: 100%;
+        margin: 0px auto 103px auto;
+    }
+    .project_item {
+        margin-bottom: 80px;
+        height: 100%;
+        width: 100%;
+    }
+    .project_item:last-child {
+        margin-bottom: 102px;
+    }
+    .project_item img {
+        width: 100%;
+        display: block;
+    }
+    .project_item h3{
+        font-size: 25px;
+        line-height: 34px;
+        margin: 15px 0 10px 0;
+    }
+    .project_item a{
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .seeallprojects {
+        width: 100%;
+    }
+        .services{
+        width: 100%;
     }
 
 }  
