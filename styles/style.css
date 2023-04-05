@@ -398,6 +398,10 @@ h3 {
         .services{
         width: 100%;
     }
+    .service-wrapper img {
+        width: 100%;
+        display: block;
+    }
 
 }  
 @media (max-width: 959px) {
