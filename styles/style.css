@@ -33,7 +33,10 @@ h3 {
     width: 1150px;
     margin: 0 auto;
 }
-
+.section {
+    margin: 0 auto 150px;
+    width: 1150px;
+}
 .first-screen-image{
     width: 100%;
     height: 500px;
@@ -125,6 +128,7 @@ h3 {
 .services-background{
     background-color: #121212;
     padding: 150px 0px;
+    margin-bottom: 150px;
 }
 .services {
     width: 1150px;
@@ -176,7 +180,6 @@ h3 {
     color: #FFFFFF;
     padding-bottom: 34px;
 }
-
 .testimonials-wrapper{
     display: flex;
     justify-content: space-between;
@@ -184,13 +187,19 @@ h3 {
     row-gap: 50px;
 }
 .testimonial{
-    width: calc(50% - 25.5px);
+    width: calc(50% - 5px);
 }
-
-
-
-
-
+.testimonial_fullwidth {
+    width: 100%;
+}
+.testimonial h3{
+    font-size: 45px;
+    line-height: 61px;
+}
+.testimonial p{
+    font-size: 22px;
+line-height: 30px;
+}
 .service_item {
     width: 1150px;
     margin-bottom: 60px;
