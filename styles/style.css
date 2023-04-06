@@ -48,10 +48,10 @@ h3 {
 }
 
 
-.about h2{
+.about-header{
     margin-bottom: 30px;
 }
-.about p {
+.about-text {
     width: 1048px;
     margin-bottom: 30px;
     font-size: 45px;
