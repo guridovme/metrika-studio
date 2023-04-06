@@ -113,18 +113,29 @@ h3 {
     padding: 150px 0px;
     margin-bottom: 150px;
 }
+
 .services-wrapper{
+    margin: 0 auto;
+    max-width: 1150px;
+}
+
+#services h2{
+    color: #FFFFFF;
+    
+}
+
+.services-items-wrapper{
     margin-bottom: 106px;
     display: flex;
     flex-wrap: wrap;
     row-gap: 85px;
     justify-content: space-between;
 }
-.service-wrapper{
+.service-item-wrapper{
     position: relative;
     width: calc(50% - 5px);
 }
-.service-wrapper img{
+.service-item-wrapper img{
     width: 100%;
     height: 389px;
 }
@@ -137,7 +148,6 @@ h3 {
     border-radius: 5px;
     color: #ffffff;    
 }
-
 .orderservice {
     height: 153px;
     box-sizing: border-box;
@@ -156,10 +166,9 @@ h3 {
     background-color: #ffffff;
     color: #AD1818;
 }
-.services h2{
-    color: #FFFFFF;
-    
-}
+
+
+
 .testimonials-wrapper{
     display: flex;
     justify-content: space-between;
