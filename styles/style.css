@@ -48,37 +48,31 @@ h3 {
 }
 
 
-
-
-
-.about {
-    width: 1150px;
-    margin: 0px auto 150px auto;
-}
 .about h2{
     margin-bottom: 30px;
 }
-.about-text {
+.about p {
     width: 1048px;
     margin-bottom: 30px;
     font-size: 45px;
-    line-height: 61px;
-    color: #000000;
-    letter-spacing: -0.03em;
+    line-height: 61px;    
 }
 .viewservices{
     display: block;
     width: 255px;
-    height: 67px;
     text-align: center;
     line-height: 67px;
-    font-weight: 400;
     font-size: 20px;
     background-color: #ad1818;
     text-decoration: none;
     border-radius: 5px;
-    color: #fff;
+    color: #ffffff;
 }
+
+
+
+
+
 .seeallprojects {
     width: 1150px;
     height: 153px;
