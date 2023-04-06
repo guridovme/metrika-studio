@@ -181,7 +181,7 @@ h3 {
     row-gap: 78px;
 }
 .testimonial{
-    width: calc(50% - 5px);
+    width: calc(50% - 45px);
 }
 .testimonial_fullwidth {
     width: 802px;
