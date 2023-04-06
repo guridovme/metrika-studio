@@ -114,7 +114,7 @@ h3 {
     margin-bottom: 150px;
 }
 
-.services-wrapper{
+.services-inner{
     margin: 0 auto;
     max-width: 1150px;
 }
@@ -131,11 +131,11 @@ h3 {
     row-gap: 85px;
     justify-content: space-between;
 }
-.service-item-wrapper{
+.service-item{
     position: relative;
     width: calc(50% - 5px);
 }
-.service-item-wrapper img{
+.service-item img{
     width: 100%;
     height: 389px;
 }
