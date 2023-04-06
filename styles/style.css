@@ -114,17 +114,14 @@ h3 {
     margin-bottom: 150px;
     min-width: 100%;
 }
-
 .services-inner{
     margin: 0 auto;
     max-width: 1150px;
 }
-
 #services h2{
     color: #FFFFFF;
     
 }
-
 .services-items-wrapper{
     margin-bottom: 98px;
     display: flex;
@@ -199,20 +196,16 @@ h3 {
     font-size: 22px;
     line-height: 30px;
 }
-.service_item {
-    width: 1150px;
-    margin-bottom: 60px;
-}
-.service_item:last-child {
-    margin-bottom: 0;
-  }
+
   
-.services h3{
-    line-height: 41px;
-    color: #FFFFFF;
-    margin-top: 25px;
-    
-}
+
+
+
+
+
+
+
+
 .full-width {
     min-width: 1150px;
     height: 717px;
@@ -236,6 +229,10 @@ h3 {
     color: #FFFFFF;
     letter-spacing: -0.03em;
 }
+
+
+
+
 .contacts_wrapper{
     min-width: 1150px;
 }
@@ -275,6 +272,9 @@ h3 {
     border-bottom: 2px solid #121212;
     opacity: 0.5;
 }
+
+
+
 .footer_wrapper {
     min-width: 1150px;
     padding-top: 60px;
