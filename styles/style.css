@@ -20,8 +20,7 @@ h1 {
     width: 956px;    
 }
 h2 {
-    font-style: normal;
-    font-weight: 400;
+    margin-bottom: 30px;
     font-size: 18px;
     line-height: 25px;
     text-transform: uppercase;
@@ -96,9 +95,7 @@ h3 {
     width: 1150px;
     margin: 0 auto 150px auto;
 }
-.projects h2 {
-    margin-bottom: 30px;
-}
+
 .project_item {
     width: 1150px;
     height: 548px;
@@ -169,7 +166,7 @@ h3 {
 }
 .services h2{
     color: #FFFFFF;
-    padding-bottom: 34px;
+    
 }
 .testimonials-wrapper{
     display: flex;
@@ -239,7 +236,7 @@ line-height: 30px;
     margin: 0 auto;
 }
 .contacts h2{
-    margin-bottom: 30px;
+    
     line-height: 29px;
 }
 .contacts h2::before {
