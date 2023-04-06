@@ -367,39 +367,13 @@ h3 {
         padding-right: 17px;
     }
     h1{
-        width: 100%;
+        width: 802px;
         font-size: 50px;
     }
     .first-screen-image{
         height: 400px;
-        background-repeat: no-repeat;
-        background-size: cover;
     }
-    .first-screen-image p {
-        max-width: 430px;
-        bottom: 30px;
-        position: absolute;
-        left: 40px;
-        width: 430px;
-        color: #ffffff;   
-    }
-    .about {
-        margin: 0px auto 120px auto;
-        width: 100%;
-    }
-    .about h2{
-        margin-bottom: 30px;
-        font-size: 18px;
-        line-height: 25px;
-    }
-    .about-text {
-        width: 100%;
-        margin-bottom: 30px;
-        font-size: 35px;
-        line-height: 48px;
-        color: #000000;
-        letter-spacing: -0.03em;
-    }
+    
     .viewservices{
         display: block;
         width: 255px;
