@@ -47,9 +47,7 @@ h3 {
 }
 
 
-.about-header{
-    margin-bottom: 30px;
-}
+
 .about-text {
     width: 1048px;
     margin-bottom: 30px;
@@ -70,8 +68,23 @@ h3 {
 
 
 
-
-
+.project_item {
+    width: 1150px;
+    height: 548px;
+    margin-bottom: 90px;
+}
+.project_item h3{    
+    line-height: 37px;
+    margin: 15px 0 15px;
+    text-transform: uppercase;    
+}
+.project_item a {
+    font-size: 20px;
+    line-height: 31px;
+    color: #AD1818;
+    text-decoration: none;
+    letter-spacing: -0.03em;
+}
 .seeallprojects {
     width: 1150px;
     height: 153px;
@@ -91,36 +104,14 @@ h3 {
     background-color: #ad1818;
     color: white;
 }
-.projects {
-    width: 1150px;
-    margin: 0 auto 150px auto;
-}
 
-.project_item {
-    width: 1150px;
-    height: 548px;
-    margin-bottom: 90px;
-}
-.project_item h3{    
-    line-height: 37px;
-    margin: 15px 0 15px;
-    text-transform: uppercase;    
-}
-.project_item a {
-    font-size: 20px;
-    line-height: 31px;
-    color: #AD1818;
-    text-decoration: none;
-    letter-spacing: -0.03em;
-}
-.services-background{
+
+
+
+#services {
     background-color: #121212;
     padding: 150px 0px;
     margin-bottom: 150px;
-}
-.services {
-    width: 1150px;
-    margin: 0 auto;
 }
 .services-wrapper{
     margin-bottom: 106px;
@@ -135,6 +126,7 @@ h3 {
 }
 .service-wrapper img{
     width: 100%;
+    height: 389px;
 }
 .price{
     position: absolute;
