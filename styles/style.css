@@ -176,6 +176,21 @@ h3 {
     color: #FFFFFF;
     padding-bottom: 34px;
 }
+
+.testimonials-wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 50px;
+}
+.testimonial{
+    width: calc(50% - 25.5px);
+}
+
+
+
+
+
 .service_item {
     width: 1150px;
     margin-bottom: 60px;
