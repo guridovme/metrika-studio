@@ -397,9 +397,8 @@ h3 {
         border-radius: 5px;
         color: #fff;
     }
-    .projects{
-        width: 100%;
-        margin: 0px auto 103px auto;
+    #projects{
+        margin-bottom: 103px;
     }
     .project_item {
         margin-bottom: 80px;
@@ -411,6 +410,7 @@ h3 {
     }
     .project_item img {
         width: 100%;
+        height: 450px;
         display: block;
     }
     .project_item h3{
