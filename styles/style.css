@@ -373,7 +373,17 @@ h3 {
     .first-screen-image{
         height: 400px;
     }
-    
+    .first-screen-image p {
+        bottom: 30px;
+    }
+    #first-screen{
+        margin-bottom: 120px;
+    } 
+    .about-text{
+        width: 690px;
+        font-size: 35px;
+        line-height: 48px;
+    }
     .viewservices{
         display: block;
         width: 255px;
