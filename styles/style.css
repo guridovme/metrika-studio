@@ -439,7 +439,9 @@ h3 {
         font-size: 25px;
         line-height: 34px;
     }
-
+    .services-items-wrapper {
+        margin-bottom: 84px;
+    }
 }  
 @media (max-width: 959px) {
     .container{
