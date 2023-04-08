@@ -386,7 +386,7 @@ h3 {
         line-height: 48px;
     }
     #about{
-        padding-bottom: 120px;
+        margin-bottom:120px;
     }
     .viewservices{
         display: block;
