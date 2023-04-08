@@ -385,6 +385,9 @@ h3 {
         font-size: 35px;
         line-height: 48px;
     }
+    #about{
+        padding-bottom: 120px;
+    }
     .viewservices{
         display: block;
         width: 255px;
