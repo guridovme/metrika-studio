@@ -429,13 +429,8 @@ h3 {
     .seeallprojects {
         width: 100%;
     }
-        .services{
-        width: 100%;
-    }
-    .service-wrapper img {
-        width: 100%;
-        display: block;
-    }
+    
+    
     .service-item img {
         height: 316px;
     }
