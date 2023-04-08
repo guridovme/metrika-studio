@@ -436,6 +436,9 @@ h3 {
         width: 100%;
         display: block;
     }
+    .service-item img {
+        height: 316px;
+    }
 
 }  
 @media (max-width: 959px) {
