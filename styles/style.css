@@ -450,14 +450,25 @@ h3 {
         padding: 7px 26px 4px 25px;
         letter-spacing: -0.07em;
     }
+    .testimonials-wrapper {
+        
+        row-gap: 47px;
+    }
+    .testimonial {
+        width: calc(50% - 8px);
+    }
     .testimonial h3{
         font-size: 35px;
         line-height: 48px;
+        margin-bottom: 25px;
         
     }
     .testimonial p{
         font-size: 20px;
         line-height: 27px;
+    }
+    .testimonial_fullwidth {
+        width: 694px;
     }
 
 }  
