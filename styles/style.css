@@ -429,7 +429,10 @@ h3 {
     .seeallprojects {
         width: 100%;
     }
-    
+
+    #services{
+        padding-bottom: 121px;
+    }
     
     .service-item img {
         margin-bottom: 15px;
@@ -441,6 +444,10 @@ h3 {
     }
     .services-items-wrapper {
         margin-bottom: 84px;
+    }
+    .price {
+        padding: 7px 26px 4px 25px;
+        letter-spacing: -0.07em;
     }
 }  
 @media (max-width: 959px) {
