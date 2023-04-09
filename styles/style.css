@@ -450,6 +450,16 @@ h3 {
         padding: 7px 26px 4px 25px;
         letter-spacing: -0.07em;
     }
+    .testimonial h3{
+        font-size: 35px;
+        line-height: 48px;
+        
+    }
+    .testimonial p{
+        font-size: 20px;
+        line-height: 27px;
+    }
+
 }  
 @media (max-width: 959px) {
     .container{
