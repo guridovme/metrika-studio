@@ -363,15 +363,7 @@ h3 {
         width: 802px;
         font-size: 50px;
     }
-    .first-screen-image{
-        height: 400px;
-    }
-    .first-screen-image p {
-        bottom: 30px;
-    }
-    #first-screen{
-        margin-bottom: 120px;
-    } 
+    
     .about-text{
         width: 690px;
         font-size: 35px;
@@ -470,11 +462,6 @@ h3 {
         width: 100%;
         font-size: 50px;
     }
-    .first-screen-image{
-        height: 400px;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
     .about-text {
         width: 690px;
         margin-bottom: 30px;
@@ -534,23 +521,7 @@ h3 {
         font-size: 14px;
         line-height: 19px;
     }
-    .first-screen-image{
-        height: 304px;
-        background-position: 25%;
-        background-repeat: no-repeat;
-        background-size: cover;
-        margin-bottom: 80px;
-    }
-    .first-screen-image p {
-        width: 312px;
-        bottom: 15px;
-        left: 15px;
-        font-size: 16px;
-        line-height: 22px;   
-    }
-    #first-screen {
-        margin-bottom: 80px;
-    }
+    
     #about {
         margin-bottom: 80px;
     }
