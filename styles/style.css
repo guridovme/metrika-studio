@@ -1,3 +1,9 @@
+@import url(first-screen.css);
+@import url(about.css);
+@import url(projects.css);
+@import url(services.css);
+@import url(revievs.css);
+
 html {scroll-behavior: smooth;}
 body {
     font-family: 'Manrope', sans-serif;
@@ -30,21 +36,7 @@ h3 {
     font-size: 30px;
     letter-spacing: -0.03em;
 }
-.first-screen-image{
-    position: relative;
-    width: 100%;
-    height: 500px;
-    background-image: url(../images/main_image.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.first-screen-image p {
-    position: absolute;
-    bottom: 40px;
-    left: 40px;
-    width: 430px;
-    color: #ffffff;
-}
+
 
 
 
@@ -550,7 +542,7 @@ h3 {
         margin-bottom: 80px;
     }
     .first-screen-image p {
-        max-width: 312px;
+        width: 312px;
         bottom: 15px;
         left: 15px;
         font-size: 16px;
