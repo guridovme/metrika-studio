@@ -484,15 +484,6 @@ h3 {
         background-repeat: no-repeat;
         background-size: cover;
     }
-    .first-screen-image p {
-        max-width: 430px;
-        bottom: 30px;
-        position: absolute;
-        left: 40px;
-        width: 430px;
-        color: #ffffff;   
-    }
-    
     .about h2{
         margin-bottom: 30px;
         font-size: 18px;
@@ -570,7 +561,6 @@ h3 {
     .first-screen-image p {
         max-width: 312px;
         bottom: 15px;
-        position: absolute;
         left: 15px;
         font-size: 16px;
         line-height: 22px;   
