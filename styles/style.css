@@ -598,7 +598,6 @@ h3 {
         height: 50px;
         line-height: 50px;
     }
-    
     .project_item {
         margin-bottom: 49px;
     }
@@ -610,7 +609,10 @@ h3 {
         font-size: 14px;
         line-height: 19px;
     }
-        .project_item h3{
+    .project_item img {
+        height: 250px;
+    }
+    .project_item h3{
         font-size: 18px;
         line-height: 25px;
         margin: 20px 0 11px 0;
@@ -625,10 +627,7 @@ h3 {
         line-height: 100px;
     }
 
-    .services {
-        width: 100%;
-        
-    }
+    
     .boxes-wrapper{
         display: flex;
         width: 100%;
