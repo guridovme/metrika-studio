@@ -578,18 +578,16 @@ h3 {
     #first-screen {
         margin-bottom: 80px;
     }
-    .about h2{
+    #about h2{
         margin-bottom: 20px;
         font-size: 14px;
         line-height: 19px;
     }
     .about-text {
-        width: 100%;
         margin-bottom: 30px;
         font-size: 22px;
         line-height: 30px;
         color: #000000;
-        letter-spacing: -0.03em;
     }
     .viewservices{
         font-size: 16px;
