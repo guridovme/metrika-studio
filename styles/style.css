@@ -492,10 +492,7 @@ h3 {
         width: 430px;
         color: #ffffff;   
     }
-    .about {
-        margin: 0px auto 120px auto;
-        width: 100%;
-    }
+    
     .about h2{
         margin-bottom: 30px;
         font-size: 18px;
@@ -522,10 +519,7 @@ h3 {
         border-radius: 5px;
         color: #fff;
     }
-    .projects{
-        width: 100%;
-        margin: 0px auto 103px auto;
-    }
+    
     .project_item {
         margin-bottom: 80px;
         height: 100%;
@@ -584,10 +578,6 @@ h3 {
     #first-screen {
         margin-bottom: 80px;
     }
-    .about {
-        margin: 0px auto 120px auto;
-        width: 100%;
-    }
     .about h2{
         margin-bottom: 20px;
         font-size: 14px;
@@ -602,17 +592,10 @@ h3 {
         letter-spacing: -0.03em;
     }
     .viewservices{
-        display: block;
-        width: 255px;
-        height: 67px;
-        text-align: center;
-        line-height: 67px;
-        font-weight: 400;
-        font-size: 20px;
-        background-color: #ad1818;
-        text-decoration: none;
-        border-radius: 5px;
-        color: #fff;
+        font-size: 16px;
+        width: 195px;
+        height: 50px;
+        line-height: 50px;
     }
     .projects {
         width: 100%;
