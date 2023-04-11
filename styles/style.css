@@ -44,42 +44,7 @@ h3 {
 
 
 
-.project_item {
-    width: 1150px;
-    height: 548px;
-    margin-bottom: 90px;
-}
-.project_item h3{    
-    line-height: 37px;
-    margin: 15px 0 15px;
-    text-transform: uppercase;    
-}
-.project_item a {
-    font-size: 20px;
-    line-height: 31px;
-    color: #AD1818;
-    text-decoration: none;
-    letter-spacing: -0.03em;
-}
-.seeallprojects {
-    width: 1150px;
-    height: 153px;
-    box-sizing: border-box;
-    display: block;
-    border: 1px solid #AD1818;
-    border-radius: 5px;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 153px;
-    text-align: center;
-    color: #AD1818;
-    text-decoration: none;    
-    letter-spacing: -0.03em;
-}
-.seeallprojects:hover {
-    background-color: #ad1818;
-    color: white;
-}
+
 
 
 
@@ -349,33 +314,7 @@ h3 {
     }
     
     
-    #projects{
-        margin-bottom: 103px;
-    }
-    .project_item {
-        margin-bottom: 80px;
-        height: 100%;
-        width: 100%;
-    }
-    .project_item:last-child {
-        margin-bottom: 102px;
-    }
-    .project_item img {
-        width: 100%;
-        display: block;
-    }
-    .project_item h3{
-        font-size: 25px;
-        line-height: 34px;
-        margin: 15px 0 10px 0;
-    }
-    .project_item a{
-        font-size: 20px;
-        line-height: 27px;
-    }
-    .seeallprojects {
-        width: 100%;
-    }
+    
     #services{
         padding-bottom: 121px;
         margin-bottom: 117px;
@@ -428,30 +367,7 @@ h3 {
     }
     
     
-    .project_item {
-        margin-bottom: 80px;
-        height: 100%;
-        width: 100%;
-    }
-    .project_item:last-child {
-        margin-bottom: 102px;
-    }
-    .project_item img {
-        width: 100%;
-        display: block;
-    }
-    .project_item h3{
-        font-size: 25px;
-        line-height: 34px;
-        margin: 15px 0 10px 0;
-    }
-    .project_item a{
-        font-size: 20px;
-        line-height: 27px;
-    }
-    .seeallprojects {
-        width: 100%;
-    }
+    
 }
 
 @media (max-width: 374px) {
@@ -471,32 +387,6 @@ h3 {
     }
     
     
-    .project_item {
-        margin-bottom: 49px;
-    }
-    .project_item:last-child {
-        margin-bottom: 60px;
-    }
-    #projects {
-        margin-bottom: 144px;
-    }
-    .project_item img {
-        height: 250px;
-    }
-    .project_item h3{
-        font-size: 18px;
-        line-height: 25px;
-        margin: 20px 0 11px 0;
-    }
-    .project_item a{
-        font-size: 16px;
-        line-height: 22px;
-    }
-    .seeallprojects {
-        height: 100%;
-        font-size: 22px;
-        line-height: 98px;
-    }
     #services{
         padding: 80px 0px;
         margin-bottom: 80px;
