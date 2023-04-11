@@ -9,7 +9,7 @@
 }
 
 .testimonial:last-child:nth-child(2n + 1) {
-    width: 802px;
+    width: 75%;
 }
 .testimonial h3{
     margin-bottom: 15px;
@@ -38,9 +38,7 @@
         font-size: 20px;
         line-height: 27px;
     }
-    .testimonial_fullwidth {
-        width: 694px;
-    }
+    
 }
 @media (max-width: 374px) {
     
