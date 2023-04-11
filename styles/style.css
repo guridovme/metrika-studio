@@ -637,7 +637,26 @@ h3 {
         font-size: 14px;
         line-height: 19px;
     }
+    .services-items-wrapper {
+        row-gap: 65px;
+    }
     .service-item{
         width: 100%;
     }
+    .price{
+        font-size: 14px;
+        line-height: 19px;
+        top: 23px;
+        left: 24px;
+        padding: 5px 29px 6px 24px;
+    }
+    .service-item img{
+        margin-bottom: 9px;
+    height: 240px;
+    }
+    .service-item h3{
+        font-size: 18px;
+        line-height: 25px;
+    }
+
 }
