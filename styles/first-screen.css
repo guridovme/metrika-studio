@@ -29,6 +29,9 @@
     .first-screen-image{
         height: 400px;
     }
+    .first-screen-image p {
+        width: 80%;
+    }
 }
 @media (max-width: 374px) {
     .first-screen-image{
@@ -37,7 +40,6 @@
         margin-bottom: 80px;
     }
     .first-screen-image p {
-        width: 312px;
         bottom: 15px;
         left: 15px;
         font-size: 16px;
