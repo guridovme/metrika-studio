@@ -578,6 +578,9 @@ h3 {
     #first-screen {
         margin-bottom: 80px;
     }
+    #about {
+        margin-bottom: 80px;
+    }
     #about h2{
         margin-bottom: 20px;
         font-size: 14px;
@@ -595,17 +598,14 @@ h3 {
         height: 50px;
         line-height: 50px;
     }
-    .projects {
-        width: 100%;
-        margin: 0px auto 144px auto;
-    }
+    
     .project_item {
         margin-bottom: 49px;
     }
     .project_item:last-child {
         margin-bottom: 60px;
     }
-    .projects h2 {
+    #projects h2 {
         margin-bottom: 20px;
         font-size: 14px;
         line-height: 19px;
