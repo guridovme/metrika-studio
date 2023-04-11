@@ -480,22 +480,12 @@ h3 {
     }
     .first-screen-image{
         height: 400px;
-           
         background-repeat: no-repeat;
         background-size: cover;
     }
-    .about h2{
-        margin-bottom: 30px;
-        font-size: 18px;
-        line-height: 25px;
-    }
     .about-text {
-        width: 100%;
+        width: 690px;
         margin-bottom: 30px;
-        font-size: 35px;
-        line-height: 48px;
-        color: #000000;
-        letter-spacing: -0.03em;
     }
     .viewservices{
         display: block;
@@ -535,9 +525,6 @@ h3 {
     .seeallprojects {
         width: 100%;
     }
-    .services{
-        width: 100%;
-    }
 }
 
 @media (max-width: 374px) {
@@ -550,13 +537,17 @@ h3 {
         font-size: 30px;
         line-height: 32px;
     }
+    h2 {
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
     .first-screen-image{
         height: 304px;
         background-position: 25%;
         background-repeat: no-repeat;
         background-size: cover;
         margin-bottom: 80px;
-
     }
     .first-screen-image p {
         max-width: 312px;
@@ -570,11 +561,6 @@ h3 {
     }
     #about {
         margin-bottom: 80px;
-    }
-    #about h2{
-        margin-bottom: 20px;
-        font-size: 14px;
-        line-height: 19px;
     }
     .about-text {
         margin-bottom: 30px;
@@ -597,11 +583,6 @@ h3 {
     #projects {
         margin-bottom: 144px;
     }
-    #projects h2 {
-        margin-bottom: 20px;
-        font-size: 14px;
-        line-height: 19px;
-    }
     .project_item img {
         height: 250px;
     }
@@ -622,11 +603,6 @@ h3 {
     #services{
         padding: 80px 0px;
         margin-bottom: 80px;
-    }
-    #services h2{
-        margin-bottom: 20px;
-        font-size: 14px;
-        line-height: 19px;
     }
     .services-items-wrapper {
         margin-bottom: 65px;
@@ -657,8 +633,6 @@ h3 {
     }
     #testimonials h2{
         margin-bottom: 23px;
-        font-size: 14px;
-        line-height: 19px;
     }
     .testimonials-wrapper {
         row-gap: 64px;
@@ -669,10 +643,10 @@ h3 {
     .testimonial h3{
         margin-bottom: 9px;
         font-size: 25px;
-line-height: 34px;
+    line-height: 34px;
     }
     .testimonial p{
         font-size: 16px;
-line-height: 22px;
+    line-height: 22px;
     }
 }
