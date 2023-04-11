@@ -5,9 +5,7 @@
     line-height: 61px;    
 }
 .viewservices{
-    display: block;
-    width: 255px;
-    text-align: center;
+    padding: 20px 40px;
     line-height: 67px;
     font-size: 20px;
     background-color: #ad1818;
@@ -24,18 +22,13 @@
     #about{
         margin-bottom:120px;
     }
-    .viewservices{
-        display: block;
-        height: 67px;
-    }
+    
 }
 @media (max-width: 959px) {
     .about-text {
         width: 80%;
     }
-    .viewservices{
-        display: block;
-    }
+    
 }
 @media (max-width: 374px) {
     #about {
@@ -48,8 +41,6 @@
     }
     .viewservices{
         font-size: 16px;
-        width: 195px;
-        height: 50px;
         line-height: 50px;
     }
 }
