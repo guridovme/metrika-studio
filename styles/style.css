@@ -40,23 +40,7 @@ h3 {
 
 
 
-.about-text {
-    width: 1048px;
-    margin-bottom: 30px;
-    font-size: 45px;
-    line-height: 61px;    
-}
-.viewservices{
-    display: block;
-    width: 255px;
-    text-align: center;
-    line-height: 67px;
-    font-size: 20px;
-    background-color: #ad1818;
-    text-decoration: none;
-    border-radius: 5px;
-    color: #ffffff;
-}
+
 
 
 
@@ -364,27 +348,7 @@ h3 {
         font-size: 50px;
     }
     
-    .about-text{
-        width: 690px;
-        font-size: 35px;
-        line-height: 48px;
-    }
-    #about{
-        margin-bottom:120px;
-    }
-    .viewservices{
-        display: block;
-        width: 255px;
-        height: 67px;
-        text-align: center;
-        line-height: 67px;
-        font-weight: 400;
-        font-size: 20px;
-        background-color: #ad1818;
-        text-decoration: none;
-        border-radius: 5px;
-        color: #fff;
-    }
+    
     #projects{
         margin-bottom: 103px;
     }
@@ -462,23 +426,7 @@ h3 {
         width: 100%;
         font-size: 50px;
     }
-    .about-text {
-        width: 690px;
-        margin-bottom: 30px;
-    }
-    .viewservices{
-        display: block;
-        width: 255px;
-        height: 67px;
-        text-align: center;
-        line-height: 67px;
-        font-weight: 400;
-        font-size: 20px;
-        background-color: #ad1818;
-        text-decoration: none;
-        border-radius: 5px;
-        color: #fff;
-    }
+    
     
     .project_item {
         margin-bottom: 80px;
@@ -522,21 +470,7 @@ h3 {
         line-height: 19px;
     }
     
-    #about {
-        margin-bottom: 80px;
-    }
-    .about-text {
-        margin-bottom: 30px;
-        font-size: 22px;
-        line-height: 30px;
-        color: #000000;
-    }
-    .viewservices{
-        font-size: 16px;
-        width: 195px;
-        height: 50px;
-        line-height: 50px;
-    }
+    
     .project_item {
         margin-bottom: 49px;
     }
