@@ -581,14 +581,17 @@ h3 {
         font-size: 16px;
         line-height: 22px;   
     }
+    #first-screen {
+        margin-bottom: 80px;
+    }
     .about {
         margin: 0px auto 120px auto;
         width: 100%;
     }
     .about h2{
-        margin-bottom: 30px;
-        font-size: 18px;
-        line-height: 25px;
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
     }
     .about-text {
         width: 100%;
