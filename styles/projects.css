@@ -48,7 +48,7 @@
     }
     .project_item img {
         width: 100%;
-        
+        object-fit: cover;
     }
     .project_item h3{
         font-size: 25px;
