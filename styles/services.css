@@ -69,6 +69,8 @@
     .service-item img {
         margin-bottom: 15px;
         height: 316px;
+        width: 100%;
+        object-fit: cover;
     }
     .service-item h3{
         font-size: 25px;
