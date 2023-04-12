@@ -37,7 +37,7 @@
     }
     
 }
-@media (max-width: 374px) {
+@media (max-width: 767px) {
     
     #testimonials h2{
         margin-bottom: 23px;

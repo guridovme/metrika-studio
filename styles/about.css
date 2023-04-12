@@ -30,7 +30,7 @@
     }
     
 }
-@media (max-width: 374px) {
+@media (max-width: 767px) {
     #about {
         margin-bottom: 80px;
     }

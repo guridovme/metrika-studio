@@ -64,7 +64,7 @@
     }
 }
 
-@media (max-width: 374px) {
+@media (max-width: 767px) {
     
     .project_item {
         margin-bottom: 49px;

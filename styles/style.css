@@ -85,7 +85,7 @@ h3 {
     }
 }
 
-@media (max-width: 374px) {
+@media (max-width: 767px) {
     section{
         padding-left: 13px;
         padding-right: 13px;

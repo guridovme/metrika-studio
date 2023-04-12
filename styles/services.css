@@ -82,7 +82,7 @@
         letter-spacing: -0.07em;
     }
 }
-@media (max-width: 374px) {
+@media (max-width: 767px) {
 
     #services{
         padding: 80px 0px;
