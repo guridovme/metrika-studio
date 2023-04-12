@@ -7,7 +7,6 @@
 .testimonial{
     width: calc(50% - 45px);
 }
-
 .testimonial:last-child:nth-child(2n + 1) {
     width: 75%;
 }
@@ -15,7 +14,6 @@
     margin-bottom: 15px;
     font-size: 45px;
     line-height: 61px;
-    
 }
 .testimonial p{
     font-size: 22px;
@@ -23,7 +21,6 @@
 }
 @media (max-width: 1199px) {
     .testimonials-wrapper {
-        
         row-gap: 47px;
     }
     .testimonial {
