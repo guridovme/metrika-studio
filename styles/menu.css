@@ -1,0 +1,46 @@
+.header-bar {
+    margin-bottom: 70px;
+}
+
+.header-container {
+    position: relative;
+    margin: 0 auto;
+    padding: 33px 0px 70px 0px;
+    width: 1150px;
+    height: 25px;
+}
+.logo-link {
+    display: inline-block;
+}
+.header-logo {
+    display: block;
+    top: 32px;
+    position: absolute;   
+}
+.menu {
+    display:inline-block;
+    position: absolute;
+    left: 686px;
+}
+.menu__item {
+    display: inline-block;
+    text-decoration: none;
+    line-height: 25px;
+    margin-right: 57px;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #121212;
+}
+.menu__item:hover {
+    border-bottom: 1px solid #121212;
+    opacity: 0.5;
+}  
+.menu__item:active {
+    border-bottom: 1px solid #121212;
+    opacity: 0.5;
+}  
+
+.menu__item:last-child {
+    margin-right: 0;
+}

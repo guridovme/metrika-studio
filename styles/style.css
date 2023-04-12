@@ -62,130 +62,6 @@ h3 {
     letter-spacing: -0.03em;
 }
 
-.contacts_wrapper{
-    min-width: 1150px;
-}
-.contacts {
-    width:1150px;
-    height: 553px;
-    padding:150px 0px;
-    box-sizing: border-box;
-    margin: 0 auto;
-}
-.contacts h2{
-    
-    line-height: 29px;
-}
-.contacts h2::before {
-    content: '';
-    display: block;
-    width: 24px;
-    height: 24px;
-    background-image: url(../images/phone_icon.png);
-    margin-bottom: 11px;
-    margin-left: -5px;
-}
-.phone  {
-    font-size: 60px;
-    margin-bottom: 28px;
-    color: #121212;
-    text-decoration: none;
-    display: block;
-    letter-spacing: -0.03em;
-}
-.email {
-    font-size: 60px;
-    letter-spacing: -0.03em;
-    color: #121212;
-    text-decoration: none;
-    border-bottom: 2px solid #121212;
-    opacity: 0.5;
-}
-.footer_wrapper {
-    min-width: 1150px;
-    padding-top: 60px;
-    padding-bottom: 30px;
-    background-color: #121212;
-}
-.footer {
-    width: 460px;
-    margin: 0 auto;
-}
-.footer_menu {
-    display:inline-block;
-    margin-bottom: 87px;
-}
-.footer_menu_item{
-    margin-right: 52px;
-    color: #ffffff;
-    font-size: 18px;
-    line-height: 25px;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-.footer_menu_item:hover {
-    opacity: 0.5;
-}  
-.footer_menu_item:active {
-    opacity: 0.5;
-}  
-.footer_menu_item:last-child {
-    margin-right: 0;
-}
-.copyright {
-    color: #FFFFFF;
-    opacity: 0.5;
-    text-align: center;
-}
-
-/* ~~ Top Navigation Bar ~~ */
-
-.header-bar {
-    margin-bottom: 70px;
-}
-
-.header-container {
-    position: relative;
-    margin: 0 auto;
-    padding: 33px 0px 70px 0px;
-    width: 1150px;
-    height: 25px;
-}
-.logo-link {
-    display: inline-block;
-}
-.header-logo {
-    display: block;
-    top: 32px;
-    position: absolute;   
-}
-.menu {
-    display:inline-block;
-    position: absolute;
-    left: 686px;
-}
-.menu__item {
-    display: inline-block;
-    text-decoration: none;
-    line-height: 25px;
-    margin-right: 57px;
-    font-weight: 400;
-    font-size: 18px;
-    text-transform: uppercase;
-    color: #121212;
-}
-.menu__item:hover {
-    border-bottom: 1px solid #121212;
-    opacity: 0.5;
-}  
-.menu__item:active {
-    border-bottom: 1px solid #121212;
-    opacity: 0.5;
-}  
-
-.menu__item:last-child {
-    margin-right: 0;
-}
 @media (max-width: 1199px) {
     section{
         width: 100%;
@@ -196,12 +72,6 @@ h3 {
         width: 802px;
         font-size: 50px;
     }
-    
-    
-    
-    
-    
-
 }  
 @media (max-width: 959px) {
     section{
@@ -213,9 +83,6 @@ h3 {
         width: 100%;
         font-size: 50px;
     }
-    
-    
-    
 }
 
 @media (max-width: 374px) {
