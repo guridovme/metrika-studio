@@ -16,7 +16,7 @@
 }
 @media (max-width: 1199px) {
     .first-screen-image{
-            height: 400px;
+        height: 400px;
     }
     .first-screen-image p {
         bottom: 30px;
@@ -33,7 +33,6 @@
     .first-screen-image{
         height: 400px;
     }
-    
 }
 @media (max-width: 767px) {
     .first-screen-image{
@@ -55,5 +54,7 @@
     .first-screen-image{
         background-image: url(../images/main_image_350.png);
     }
-    
+    .first-screen-image p {
+        width: 89%;
+    }
 }
