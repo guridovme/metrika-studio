@@ -1,6 +1,5 @@
 .project_item {
-    width: 1150px;
-    height: 548px;
+    width: 100%;
     margin-bottom: 90px;
 }
 .project_item h3{    
@@ -40,8 +39,6 @@
     }
     .project_item {
         margin-bottom: 80px;
-        height: 100%;
-        width: 100%;
     }
     .project_item:last-child {
         margin-bottom: 102px;

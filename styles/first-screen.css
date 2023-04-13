@@ -38,7 +38,6 @@
 }
 @media (max-width: 767px) {
     .first-screen-image{
-        background-image: url(../images/main_image_350.png);
         height: 304px;
         background-position: 25%;
         margin-bottom: 80px;
