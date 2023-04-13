@@ -1,3 +1,7 @@
+#first-screen h1{
+    margin-bottom: 30px;
+    width: 956px;  
+}
 .first-screen-image{
     position: relative;
     width: 100%;
@@ -15,6 +19,10 @@
     color: #ffffff;
 }
 @media (max-width: 1199px) {
+    #first-screen h1{
+        width: 802px;
+        font-size: 50px;
+    }
     .first-screen-image{
         height: 400px;
     }
@@ -35,6 +43,12 @@
     }
 }
 @media (max-width: 767px) {
+    #first-screen h1{
+        margin-bottom: 25px;
+        font-size: 30px;
+        line-height: 32px;
+        width: 96%;
+    }
     .first-screen-image{
         height: 304px;
         background-position: 25%;

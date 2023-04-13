@@ -20,16 +20,12 @@ p {
     line-height: 27px;
 }
 h1 {
-    margin-bottom: 30px;
     font-size: 60px;
     line-height: 60px;
-    width: 956px;    
 }
 h2 {
-    margin-bottom: 30px;
     font-size: 18px;
     line-height: 25px;
-    text-transform: uppercase;
 }
 h3 {
     font-size: 30px;
@@ -44,7 +40,6 @@ h3 {
     background-repeat: no-repeat;
     background-position: 50% 50%;
     position: relative;
-
 }
 .full-width-wrapper {
     width: 1150px;
@@ -57,18 +52,12 @@ h3 {
     font-size: 30px;
     line-height: 41px;
     color: #FFFFFF;
-    
 }
-
 @media (max-width: 1199px) {
     section{
         width: 100%;
         padding-left: 17px;
         padding-right: 17px;
-    }
-    h1{
-        width: 802px;
-        font-size: 50px;
     }
 }  
 @media (max-width: 959px) {
@@ -77,24 +66,16 @@ h3 {
         padding-left: 17px;
         padding-right: 17px;
     }
-    
 }
-
 @media (max-width: 767px) {
     section{
         padding-left: 13px;
         padding-right: 13px;
     }
-    h1{
-        margin-bottom: 25px;
-        font-size: 30px;
-        line-height: 32px;
-        width: 96%;
-    }
+    
     h2 {
         margin-bottom: 20px;
         font-size: 14px;
         line-height: 19px;
     }
-    
 }
