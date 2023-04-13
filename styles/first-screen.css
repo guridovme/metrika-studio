@@ -5,7 +5,7 @@
     background-image: url(../images/main_image.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50%;
+    
 }
 .first-screen-image p {
     position: absolute;
@@ -16,8 +16,7 @@
 }
 @media (max-width: 1199px) {
     .first-screen-image{
-        background-position: center;
-        height: 400px;
+            height: 400px;
     }
     .first-screen-image p {
         bottom: 30px;
@@ -34,9 +33,7 @@
     .first-screen-image{
         height: 400px;
     }
-    .first-screen-image p {
-        width: 80%;
-    }
+    
 }
 @media (max-width: 767px) {
     .first-screen-image{

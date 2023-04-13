@@ -30,7 +30,6 @@ h2 {
     font-size: 18px;
     line-height: 25px;
     text-transform: uppercase;
-    color: #000000;
 }
 h3 {
     font-size: 30px;
@@ -78,10 +77,7 @@ h3 {
         padding-left: 17px;
         padding-right: 17px;
     }
-    h1{
-        width: 100%;
-        font-size: 50px;
-    }
+    
 }
 
 @media (max-width: 767px) {
