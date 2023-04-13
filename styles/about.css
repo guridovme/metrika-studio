@@ -38,6 +38,11 @@
     #about {
         margin-bottom: 80px;
     }
+    #about h2{
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
     .about-text {
         font-size: 22px;
         line-height: 30px;

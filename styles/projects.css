@@ -62,7 +62,12 @@
     }
 }
 
-@media (max-width: 767px) {   
+@media (max-width: 767px) {
+    #projects h2 {
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }   
     .project_item {
         margin-bottom: 48px;
     }

@@ -42,9 +42,10 @@
     
 }
 @media (max-width: 767px) {
-    
-    #testimonials h2{
+     #testimonials h2{
         margin-bottom: 23px;
+        font-size: 14px;
+        line-height: 19px;
     }
     .testimonials-wrapper {
         row-gap: 64px;
