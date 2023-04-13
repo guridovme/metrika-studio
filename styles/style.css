@@ -13,16 +13,18 @@ section {
     margin: 0 auto 150px;
     width: 1150px;
 }
+p, h1, h2, h3{
+    letter-spacing: -0.03em;
+} 
+
 p {
     font-size: 20px;
     line-height: 27px;
-    letter-spacing: -0.03em;
 }
 h1 {
     margin-bottom: 30px;
     font-size: 60px;
     line-height: 60px;
-    letter-spacing: -0.03em;
     width: 956px;    
 }
 h2 {
@@ -34,7 +36,6 @@ h2 {
 }
 h3 {
     font-size: 30px;
-    letter-spacing: -0.03em;
 }
 
 
