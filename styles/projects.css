@@ -15,7 +15,7 @@
     text-decoration: none;
     letter-spacing: -0.03em;
 }
-.seeallprojects {
+.see-all-projects {
     width: 1150px;
     height: 153px;
     box-sizing: border-box;
@@ -30,7 +30,7 @@
     text-decoration: none;    
     letter-spacing: -0.03em;
 }
-.seeallprojects:hover {
+.see-all-projects:hover {
     background-color: #ad1818;
     color: white;
 }
@@ -59,7 +59,7 @@
         font-size: 20px;
         line-height: 27px;
     }
-    .seeallprojects {
+    .see-all-projects {
         width: 100%;
     }
 }
@@ -84,7 +84,7 @@
         font-size: 16px;
         line-height: 22px;
     }
-    .seeallprojects {
+    .see-all-projects {
         height: 100%;
         font-size: 22px;
         line-height: 98px;
