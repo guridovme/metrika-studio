@@ -1,3 +1,7 @@
+#testimonials h2{
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
 .testimonials-wrapper{
     display: flex;
     justify-content: space-between;
@@ -54,10 +58,10 @@
     .testimonial h3{
         margin-bottom: 9px;
         font-size: 25px;
-    line-height: 34px;
+        line-height: 34px;
     }
     .testimonial p{
         font-size: 16px;
-    line-height: 22px;
+        line-height: 22px;
     }
 }

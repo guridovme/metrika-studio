@@ -10,7 +10,9 @@
     padding: 0px 15px;
 }
 #services h2{
+    margin-bottom: 30px;
     color: #FFFFFF;
+    text-transform: uppercase;
 }
 .services-items-wrapper{
     margin-bottom: 98px;
