@@ -7,16 +7,14 @@
 html {scroll-behavior: smooth;}
 body {
     font-family: 'Manrope', sans-serif;
-    letter-spacing: -0.03em;    
 }
 section {
     margin: 0 auto 150px;
     width: 1150px;
 }
-p, h1, h2, h3{
+p, h1, h2, h3, a, div {
     letter-spacing: -0.03em;
 } 
-
 p {
     font-size: 20px;
     line-height: 27px;
@@ -60,7 +58,7 @@ h3 {
     font-size: 30px;
     line-height: 41px;
     color: #FFFFFF;
-    letter-spacing: -0.03em;
+    
 }
 
 @media (max-width: 1199px) {
