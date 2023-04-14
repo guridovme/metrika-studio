@@ -3,6 +3,7 @@
 @import url(projects.css);
 @import url(services.css);
 @import url(testimonials.css);
+@import url(gallery.css);
 
 html {scroll-behavior: smooth;}
 body {
