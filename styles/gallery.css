@@ -1,3 +1,8 @@
+#gallery {
+    width: 100%;
+    display: block;
+    margin: 0;
+}
 .container {
     width: 1150px;
     margin: 0 auto;
@@ -76,6 +81,8 @@
   .gallery__control-next {
     font-size: 80px;
     color: #ffffff;
+    background: transparent;
+    border: none;
   }
   
   .gallery__control-prev:hover {
