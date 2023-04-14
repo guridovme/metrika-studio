@@ -74,9 +74,8 @@
   
   .gallery__control-prev,
   .gallery__control-next {
-    border: none;
-    padding: 0;
-    background: transparent;
+    font-size: 80px;
+    color: #ffffff;
   }
   
   .gallery__control-prev:hover {
