@@ -1,12 +1,12 @@
 #contacts h2{
-    margin-bottom: 25px;
+    margin-bottom: 30px;
     text-transform: uppercase;
 }
 .contacts__wrapper{
     display: flex;
 }
 .contacts__item{
-    width: calc(50% - 45px);
+    width: calc(50% - 0px);
 }
 .contacts__item-phone::before {
     content: '';
@@ -14,8 +14,8 @@
     width: 24px;
     height: 24px;
     background-image: url(../images/phone_icon.png);
-    margin-bottom: 28px;
-    margin-left: -5px;
+    margin-bottom: 22px;
+    margin-left: -6px;
 }
 .contacts__item-phone  {
     font-size: 60px;
@@ -29,8 +29,8 @@
     width: 24px;
     height: 24px;
     background-image: url(../images/email_icon.png);
-    margin-bottom: 28px;
-    margin-left: -5px;
+    margin-bottom: 20px;
+    margin-left: 3px;
 }
 .contacts__item-email {
     font-size: 60px;
