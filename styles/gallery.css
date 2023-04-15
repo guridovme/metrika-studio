@@ -27,14 +27,14 @@
     color: #ffffff;
   }
   
-  .gallery__subtitle-wrapper {
+  .gallery__subheading-wrapper {
     position: absolute;
     z-index: 100;
     width: 100%;
     bottom: 60px;
   }
   
-  .gallery__subtitle {
+  .gallery__subheading {
     width: 443px;
     font-size: 30px;
     line-height: 41px;
