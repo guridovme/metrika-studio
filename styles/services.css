@@ -82,7 +82,7 @@
     }
     .price {
         padding: 7px 26px 4px 25px;
-        letter-spacing: -0.07em;
+        
     }
 }
 @media (max-width: 767px) {
