@@ -83,6 +83,7 @@
     color: #ffffff;
     background: transparent;
     border: none;
+    font-family: 'Manrope';
   }
   
   .gallery__control-prev:hover {

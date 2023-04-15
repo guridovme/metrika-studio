@@ -4,6 +4,7 @@
 @import url(services.css);
 @import url(testimonials.css);
 @import url(gallery.css);
+@import url(contacts.css);
 
 html {scroll-behavior: smooth;}
 body {
