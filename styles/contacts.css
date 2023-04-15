@@ -1,5 +1,5 @@
 #contacts h2{
-    line-height: 25px;
+    margin-bottom: 25px;
     text-transform: uppercase;
 }
 .contacts__wrapper{
@@ -14,7 +14,7 @@
     width: 24px;
     height: 24px;
     background-image: url(../images/phone_icon.png);
-    margin-bottom: 11px;
+    margin-bottom: 28px;
     margin-left: -5px;
 }
 .contacts__item-phone  {
@@ -22,6 +22,15 @@
     margin-bottom: 28px;
     color: #121212;
     text-decoration: none;
+}
+.contacts__item-email::before {
+    content: '';
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-image: url(../images/email_icon.png);
+    margin-bottom: 28px;
+    margin-left: -5px;
 }
 .contacts__item-email {
     font-size: 60px;
