@@ -8,25 +8,26 @@
     width: 460px;
     margin: 0 auto;
 }
-.footer_menu {
-    display:inline-block;
+.nav {
+    display:flex;
     margin-bottom: 87px;
 }
-.footer_menu_item{
+.nav__link{
     margin-right: 52px;
+    display: block;
     color: #ffffff;
     font-size: 18px;
     line-height: 25px;
     text-transform: uppercase;
     text-decoration: none;
 }
-.footer_menu_item:hover {
+.nav__link:hover {
     opacity: 0.5;
 }  
-.footer_menu_item:active {
+.nav__link:active {
     opacity: 0.5;
 }  
-.footer_menu_item:last-child {
+.nav__link:last-child {
     margin-right: 0;
 }
 .copyright {
