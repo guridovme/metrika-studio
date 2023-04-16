@@ -5,10 +5,7 @@
 .contacts__wrapper{
     display: flex;
 }
-.contacts__item{
-    width: calc(50% - 0px);
-}
-.contacts__item-phone::before {
+.contacts__phone::before {
     content: '';
     display: block;
     width: 24px;
@@ -17,22 +14,22 @@
     margin-bottom: 22px;
     margin-left: -6px;
 }
-.contacts__item-phone  {
+.contacts__phone-link  {
     font-size: 60px;
     margin-bottom: 28px;
     color: #121212;
     text-decoration: none;
 }
-.contacts__item-email::before {
+.contacts__email::before {
     content: '';
     display: block;
-    width: 24px;
-    height: 24px;
+    width: 20px;
+    height: 16px;
     background-image: url(../images/email_icon.png);
     margin-bottom: 20px;
     margin-left: 3px;
 }
-.contacts__item-email {
+.contacts__email-link {
     font-size: 60px;
     color: #121212;
     text-decoration: none;
