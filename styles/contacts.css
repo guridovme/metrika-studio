@@ -23,7 +23,7 @@
     color: #121212;
     text-decoration: none;
 }
-.contacts__item-email::before {
+.contacts__item-email a::before {
     content: '';
     display: block;
     width: 24px;
@@ -32,7 +32,7 @@
     margin-bottom: 20px;
     margin-left: 3px;
 }
-.contacts__item-email {
+.contacts__item-email a {
     font-size: 60px;
     color: #121212;
     text-decoration: none;
