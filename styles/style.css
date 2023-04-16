@@ -5,6 +5,7 @@
 @import url(testimonials.css);
 @import url(gallery.css);
 @import url(contacts.css);
+@import url(footer.css);
 
 html {scroll-behavior: smooth;}
 body {
