@@ -4,6 +4,7 @@
 }
 .contacts__wrapper{
     display: flex;
+    gap:108px;
 }
 .contacts__phone::before {
     content: '';
