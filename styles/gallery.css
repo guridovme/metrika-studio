@@ -95,7 +95,7 @@
   }
   
   @media (max-width: 1199px) {
-    .gallery {
+    #gallery {
       margin-bottom: 120px;
     }
   
