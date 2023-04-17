@@ -97,8 +97,9 @@
   @media (max-width: 1199px) {
     #gallery {
       margin-bottom: 120px;
+      padding: 0px;
     }
-  
+        
     .container {
       width: 100%;
     }
