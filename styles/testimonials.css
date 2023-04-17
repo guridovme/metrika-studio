@@ -27,6 +27,9 @@
     line-height: 30px;
 }
 @media (max-width: 1199px) {
+    #testimonials{
+        margin: 0px auto 114px;
+    }
     .testimonials-wrapper {
         row-gap: 47px;
     }
