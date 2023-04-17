@@ -1,5 +1,8 @@
+#testimonials{
+    margin: 0px auto 154px;
+}
 #testimonials h2{
-    margin-bottom: 30px;
+    margin-bottom: 31px;
     text-transform: uppercase;
 }
 .testimonials-wrapper{
