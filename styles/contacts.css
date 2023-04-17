@@ -17,7 +17,6 @@
 }
 .contacts__phone-link  {
     font-size: 60px;
-    margin-bottom: 28px;
     color: #121212;
     text-decoration: none;
 }
@@ -36,4 +35,16 @@
     text-decoration: none;
     border-bottom: 2px solid #121212;
     opacity: 0.5;
+}
+@media (max-width: 1199px) {
+    #contacts {
+        margin: 0 auto 92px;
+    }
+    .contacts__wrapper {
+        gap: 116px;
+    
+    }
+    .contacts__phone-link,.contacts__email-link  {
+        font-size: 60px;
+    }
 }
