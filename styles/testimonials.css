@@ -1,7 +1,7 @@
-#testimonials{
+.testimonials{
     margin: 0px auto 156px;
 }
-#testimonials h2{
+.testimonials h2{
     margin-bottom: 31px;
     text-transform: uppercase;
 }
@@ -27,7 +27,7 @@
     line-height: 30px;
 }
 @media (max-width: 1199px) {
-    #testimonials{
+    .testimonials{
         margin: 0px auto 114px;
     }
     .testimonials-wrapper {
@@ -48,7 +48,7 @@
     
 }
 @media (max-width: 767px) {
-     #testimonials h2{
+    .testimonials h2{
         margin-bottom: 23px;
         font-size: 14px;
         line-height: 19px;
