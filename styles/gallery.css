@@ -65,21 +65,22 @@
     position: absolute;
     width: 100%;
     bottom: 162px;
-    margin-bottom: 20px;
+    left: -9px;
   }
   
   .gallery__controls {
     display: flex;
-    gap: 34px;
+    gap: 9px;
   }
   
   .gallery__control-prev,
   .gallery__control-next {
-    font-size: 80px;
+    font-size: 68px;
     color: #ffffff;
     background: transparent;
     border: none;
     font-family: 'Manrope';
+    padding: 0px;
   }
   
   .gallery__control-prev:hover {
