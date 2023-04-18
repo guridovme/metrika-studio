@@ -37,7 +37,7 @@
     opacity: 0.5;
 }
 @media (max-width: 1199px) {
-    #contacts {
+    .contacts {
         margin: 0 auto 92px;
     }
     .contacts__wrapper {
