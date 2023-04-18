@@ -1,5 +1,5 @@
 .contacts h2{
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     text-transform: uppercase;
 }
 .contacts__wrapper{
@@ -20,13 +20,16 @@
     color: #121212;
     text-decoration: none;
 }
+.contacts__email{
+    margin-top: 4px;
+}
 .contacts__email::before {
     content: '';
     display: block;
     width: 20px;
     height: 16px;
     background-image: url(../images/email_icon.png);
-    margin-bottom: 20px;
+    margin-bottom: 18px;
     margin-left: 3px;
 }
 .contacts__email-link {
