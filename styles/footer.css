@@ -8,12 +8,11 @@
     margin: 0 auto;
 }
 .nav {
-    display:flex;
     margin-bottom: 87px;
+    display: flex;
+    gap: 55px;
 }
 .nav__link{
-    margin-right: 52px;
-    display: block;
     color: #ffffff;
     font-size: 18px;
     line-height: 25px;
