@@ -33,29 +33,6 @@ h2 {
 h3 {
     font-size: 30px;
 }
-
-
-.full-width {
-    min-width: 1150px;
-    height: 717px;
-    background-image: url(../images/bottom_image.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    position: relative;
-}
-.full-width-wrapper {
-    width: 1150px;
-    margin: 0 auto;
-}
-.full-width p {
-    width: 443px;
-    position: absolute;
-    bottom: 60px;
-    font-size: 30px;
-    line-height: 41px;
-    color: #FFFFFF;
-}
 @media (max-width: 1199px) {
     section{
         width: 100%;
@@ -75,7 +52,6 @@ h3 {
         padding-left: 13px;
         padding-right: 13px;
     }
-    
     h2 {
         margin-bottom: 20px;
         font-size: 14px;
