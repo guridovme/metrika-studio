@@ -1,4 +1,4 @@
-#projects h2{
+.projects h2{
     margin-bottom: 30px;
     text-transform: uppercase;
 }
@@ -35,7 +35,7 @@
     color: white;
 }
 @media (max-width: 1199px) {
-    #projects{
+    .projects{
         margin-bottom: 103px;
     }
     .project_item {
@@ -63,7 +63,10 @@
 }
 
 @media (max-width: 767px) {
-    #projects h2 {
+    .projects {
+        margin-bottom: 144px;
+    }
+    .projects h2 {
         margin-bottom: 20px;
         font-size: 14px;
         line-height: 19px;
@@ -73,9 +76,6 @@
     }
     .project_item:last-child {
         margin-bottom: 60px;
-    }
-    #projects {
-        margin-bottom: 144px;
     }
     .project_item h3{
         font-size: 18px;
