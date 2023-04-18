@@ -1,4 +1,4 @@
-#gallery {
+.gallery {
     width: 100%;
     display: block;
     margin: 0;
@@ -8,7 +8,7 @@
     margin: 0 auto;
   }
   
-  .gallery {
+  .gallery__wrapper {
     position: relative;
     margin-bottom: 150px;
   }
@@ -95,10 +95,10 @@
   }
   
   @media (max-width: 1199px) {
-    #gallery {
+    .gallery {
       padding: 0px;
     }
-    .gallery {
+    .gallery__wrapper {
       margin-bottom: 120px;
     }
     .container {
@@ -140,7 +140,7 @@
   }
   
   @media (max-width: 767px) {
-    .gallery {
+    .gallery__wrapper {
       margin-bottom: 80px;
     }
   
