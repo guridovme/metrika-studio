@@ -1,32 +1,28 @@
-.gallery {
+  .gallery {
     width: 100%;
     display: block;
     margin: 0;
 }
-.container {
+  .container {
     width: 1150px;
     margin: 0 auto;
   }
-  
   .gallery__wrapper {
     position: relative;
     margin-bottom: 150px;
   }
-  
   .gallery__title-wrapper {
     position: absolute;
     z-index: 100;
     width: 100%;
     top: 60px;
   }
-  
   .gallery__title {
     font-size: 22px;
     line-height: 30px;
     text-transform: uppercase;
     color: #ffffff;
   }
-  
   .gallery__subheading-wrapper {
     position: absolute;
     z-index: 100;
