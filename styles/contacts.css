@@ -41,7 +41,7 @@
 }
 @media (max-width: 1199px) {
     .contacts {
-        margin: 0 auto 92px;
+        margin: 0 auto 87px;
     }
     .contacts__wrapper {
         gap: 116px;
@@ -49,5 +49,11 @@
     }
     .contacts__phone-link,.contacts__email-link  {
         font-size: 45px;
+    }
+    .contacts__phone::before {
+       margin-bottom: 33px;
+    }
+    .contacts__email::before {
+        margin-bottom: 26px;
     }
 }
