@@ -53,6 +53,9 @@
         font-size: 14px;
         line-height: 19px;
     }
+    .testimonials{
+        margin: 0px auto 70px;
+    }
     .testimonials-wrapper {
         row-gap: 64px;
     }

@@ -168,8 +168,9 @@
     }
   
     .gallery__controls-wrapper {
-      bottom: 50%;
+      bottom: 40%;
       margin-bottom: 0;
+      left: 0px;
     }
   
     .gallery__controls {
@@ -177,10 +178,10 @@
     }
   
     .gallery__control-prev {
-      padding-left: 14.5px;
+      padding-left: 0px;
     }
   
-    .gallery__control-next {
-      padding-right: 12.5px;
+    .gallery__control-next {  
+      padding-right: 0px;
     }
   }
