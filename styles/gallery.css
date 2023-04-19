@@ -128,7 +128,8 @@
     }
   
     .gallery__controls-wrapper {
-      bottom: 102px;
+      bottom: 130px;
+      left: 2px;
     }
   
     .gallery__control-prev {
