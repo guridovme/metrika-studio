@@ -62,6 +62,9 @@
     }
 }
 @media (max-width: 767px) {
+        .contacts h2{
+        margin-bottom: 20px;
+    }
     .contacts__wrapper {
         gap: 10px;
         flex-direction: column;
@@ -74,6 +77,12 @@
     .contacts__phone-link  {
         font-size: 35px;
         line-height: 46px;
+        
+    }
+    .contacts__email::before {
+        
+        width: 15px;
+        height: 12px;
         
     }
     .contacts__email-link {
