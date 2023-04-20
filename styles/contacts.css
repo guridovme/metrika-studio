@@ -59,12 +59,17 @@
 }
 @media (max-width: 767px) {
     .contacts__wrapper {
-        gap: 116px;
+        gap: 10px;
         flex-direction: column;
     }
     .contacts__phone::before {
         margin-bottom: 20px;
         width: 18px;
         height: 18px;
-}
+    }
+    .contacts__phone-link  {
+        font-size: 35px;
+        line-height: 46px;
+        
+    }
 }
