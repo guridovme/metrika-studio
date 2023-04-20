@@ -33,3 +33,23 @@
     opacity: 0.5;
     text-align: center;
 }
+@media (max-width: 767px) {
+    .footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .nav {
+        margin-bottom: 28px;
+    }    
+    .nav__link{
+        font-size: 12px;
+        line-height: 16px;
+        
+    }
+
+    .copyright {
+        
+        font-size: 13px;
+line-height: 18px;
+    }
+}
