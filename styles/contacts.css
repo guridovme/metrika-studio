@@ -66,7 +66,7 @@
         margin-bottom: 20px;
     }
     .contacts__wrapper {
-        gap: 10px;
+        gap: 19px;
         flex-direction: column;
     }
     .contacts__phone::before {
@@ -77,13 +77,11 @@
     .contacts__phone-link  {
         font-size: 35px;
         line-height: 46px;
-        
     }
     .contacts__email::before {
-        
+        margin-bottom: 24px;
         width: 15px;
         height: 12px;
-        
     }
     .contacts__email-link {
         font-size: 35px;
