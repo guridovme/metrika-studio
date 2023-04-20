@@ -14,6 +14,8 @@
     background-image: url(../images/phone_icon.png);
     margin-bottom: 22px;
     margin-left: -6px;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .contacts__phone-link  {
     font-size: 60px;
@@ -31,6 +33,8 @@
     background-image: url(../images/email_icon.png);
     margin-bottom: 18px;
     margin-left: 3px;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .contacts__email-link {
     font-size: 60px;
