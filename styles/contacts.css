@@ -57,3 +57,10 @@
         margin-bottom: 26px;
     }
 }
+@media (max-width: 767px) {
+
+    .contacts__wrapper {
+        gap: 116px;
+        flex-direction: column;
+    }
+}
