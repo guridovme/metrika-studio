@@ -62,6 +62,9 @@
     }
 }
 @media (max-width: 767px) {
+    .contacts {
+        margin: 0 auto 80px;
+    }
         .contacts h2{
         margin-bottom: 20px;
     }
