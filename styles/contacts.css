@@ -72,4 +72,8 @@
         line-height: 46px;
         
     }
+    .contacts__email-link {
+        font-size: 35px;
+        line-height: 46px;
+    }
 }
