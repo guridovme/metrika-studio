@@ -1,3 +1,6 @@
+.body_fixed {
+    overflow: hidden;
+  }
 .popup {
     position: fixed;
     top: 0;
