@@ -32,13 +32,14 @@
     background-color: #ad1818;
     color: #ffffff;
     cursor: pointer;
-    border: none;
     border: 1px solid #ad1818;
+    font-family: 'Manrope', sans-serif;    
 }
 .send-btn:hover {
     background-color: #ffffff;
     color: #ad1818;
     transition: all 0.5s ease;
+    
 }
 @media (max-width: 767px) {
     .input {
