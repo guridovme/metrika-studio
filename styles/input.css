@@ -1,0 +1,24 @@
+.popup__input-wrapper {
+    margin-bottom: 80px;
+  }
+  
+  .popup__input {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  
+  .mb-0 {
+    margin-bottom: 0;
+  }
+  @media (max-width: 767px) {
+    
+    
+      .popup__input-wrapper {
+        margin-bottom: 60px;
+      }
+    
+      .popup__input {
+        margin-bottom: 40px;
+      }
+    
+  }
