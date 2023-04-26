@@ -32,6 +32,8 @@
     background-color: #ad1818;
     color: #ffffff;
     cursor: pointer;
+    border: none;
+    border: 1px solid #ad1818;
 }
 .send-btn:hover {
     background-color: #ffffff;
