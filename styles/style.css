@@ -7,6 +7,7 @@
 @import url(contacts.css);
 @import url(footer.css);
 @import url(popup.css);
+@import url(input.css);
 
 html {scroll-behavior: smooth;}
 body {
