@@ -21,6 +21,18 @@
     font-family: "Manrope";
     font-weight: 400;
 }
+.send-btn{
+    display: block;
+    width: 100%;
+    line-height: 151px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #ad1818;
+    color: #ffffff;
+    cursor: pointer;
+}
 @media (max-width: 767px) {
     .input {
       font-size: 18px;
