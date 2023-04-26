@@ -35,11 +35,12 @@
     right: 34px;
     width: 50px;
     height: 50px;
-    background-image: url(../resources/popup-close.png);
+    background-image: url(../images/popup-close-button.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
     background-color: #ffffff;
+    cursor: pointer;
 }
 .popup__header {
     margin-bottom: 4px;
