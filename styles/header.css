@@ -1,0 +1,28 @@
+.header {
+    padding: 33px 0 70px;
+}
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+}
+.header__nav {
+    margin-bottom: 87px;
+    display: flex;
+    gap: 55px;
+}
+.header__link {
+    color: #121212;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.header__link:hover {
+    opacity: 0.5;
+}  
+.header__link:active {
+    opacity: 0.5;
+}  
+.header__link:last-child {
+    margin-right: 0;
+}
