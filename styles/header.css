@@ -34,12 +34,13 @@
       color: #000000;
     }
   
-    .header__nav {
-      display: none;
-    }
+    
   }
   
   @media (max-width: 767px) {
+    .header__nav {
+        display: none;
+      }
     .logo-link {
       width: 96px;
       height: 16px;
