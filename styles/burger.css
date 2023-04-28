@@ -1,6 +1,8 @@
+.body_fixed {
+    overflow: hidden;
+}
 .burger-btn{
     display: none;
-
 }
 .burger{
     z-index: 10;
