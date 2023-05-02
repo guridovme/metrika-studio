@@ -26,6 +26,9 @@
 }  
 
 @media (max-width: 1199px) {
+  .header__nav {
+    display: none;
+  }
     .burger {
       font-size: 25px;
       line-height: 34px;
@@ -36,9 +39,7 @@
   }
   
   @media (max-width: 767px) {
-    .header__nav {
-        display: none;
-      }
+    
     .logo-link {
       width: 96px;
       height: 16px;
