@@ -42,6 +42,10 @@
   
   @media (max-width: 767px) {
     
+.header {
+    padding-left: 13px;
+    padding-right: 13px;
+}
     .logo-link {
       width: 96px;
       height: 16px;
