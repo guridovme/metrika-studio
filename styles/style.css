@@ -37,6 +37,10 @@ h2 {
 h3 {
     font-size: 30px;
 }
+button {
+    font-family: inherit;
+    cursor: pointer;
+}
 @media (max-width: 1199px) {
     section{
         width: 100%;

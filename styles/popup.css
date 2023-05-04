@@ -40,7 +40,6 @@
     background-position: center;
     border: none;
     background-color: #ffffff;
-    cursor: pointer;
 }
 .popup__close-btn:hover {
     opacity: 0.5;
