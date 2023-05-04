@@ -49,15 +49,15 @@
     width: 100%;
     box-sizing: border-box;
     display: block;
-    border-radius: 5px;
-    font-weight: 400;
+    font-family: inherit;
     font-size: 30px;
     line-height: 153px;
     text-align: center;
     color: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
     background-color: #AD1818;;
-    text-decoration: none;  
-    cursor: pointer;  
+    border: 1px solid #ad1818;  
 }
 .order-service-button:hover {
     background-color: #ffffff;
@@ -121,7 +121,7 @@
         font-size: 18px;
         line-height: 25px;
     }
-    .order-service{
+    .order-service-button{
         height: 101px;
         font-size: 22px;
         line-height: 107px;
