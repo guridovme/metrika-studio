@@ -31,16 +31,19 @@
 }
 .popup__close-btn {
     position: absolute;
-    top: 32px;
-    right: 34px;
-    width: 50px;
-    height: 50px;
+    right: 45px;
+    top: 45px;
+    width: 30px;
+    height: 30px;
     background-image: url(../images/popup-close-button.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
     background-color: #ffffff;
     cursor: pointer;
+}
+.popup__close-btn:hover {
+    opacity: 0.5;
 }
 .popup__header {
     margin-bottom: 4px;
@@ -68,9 +71,9 @@
     .popup__close-btn {
         top: 40px;
         right: 29px;
-        width: 30px;
-        height: 30px;
-        background-image: url(../images/popup-close-button.png);
+        width: 18px;
+        height: 18px;
+        background-image: url(../images/popup-close-button-mobile.png);
     }
     .popup__header {
         margin-bottom: 11px;
