@@ -58,18 +58,14 @@
     opacity: 0.5;
   }
   
-  .burger__contact-tel {
+  .burger__contact-tel, .burger__contact-email {
     font-size: 20px;
     line-height: 46px;
     text-transform: uppercase;
     color: #121212;
+    text-decoration: none;
   }
   
-  .burger__contact-telgram {
-    font-size: 20px;
-    line-height: 60px;
-    color: #121212;
-  }
   
   @media (max-width: 1199px) {
     .burger-btn {
