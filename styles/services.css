@@ -78,10 +78,13 @@
         line-height: 34px;
     }
     .services-items-wrapper {
-        margin-bottom: 84px;
+        margin-bottom: 76px;
     }
     .price {
         padding: 7px 26px 4px 25px;
+    }
+    .order-service-button{
+        line-height: 150px;
     }
 }
 @media (max-width: 767px) {
