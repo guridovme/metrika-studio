@@ -100,7 +100,7 @@
     .burger-btn_open {
       position: absolute;
       top: 20px;
-      right: 30px;
+      right: 20px;
       z-index: 80;
       background-image: url(../images/burger-close-btn.png);
       background-repeat: no-repeat;
@@ -118,10 +118,6 @@
   }
   
   @media (max-width: 767px) {
-    .burger-btn {
-      width: 38px;
-    }
-  
     .burger-btn::before,
     .burger-btn::after {
       height: 1.52px;
