@@ -19,7 +19,7 @@
 }
 @media (max-width: 1199px) {
     .first-screen h1{
-        width: 802px;
+        width: 90%;
         font-size: 50px;
     }
     .first-screen-image{
