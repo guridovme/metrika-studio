@@ -19,6 +19,7 @@
 .popup_open {
     opacity: 1;
     visibility: visible;
+    z-index: 200;
 }
 .popup__content {
     position: relative;
