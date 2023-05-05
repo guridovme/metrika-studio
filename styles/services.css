@@ -15,10 +15,10 @@
     text-transform: uppercase;
 }
 .services-items-wrapper {
-    margin-bottom: 98px;
+    margin-bottom: 103px;
     display: flex;
     flex-wrap: wrap;
-    row-gap: 85px;
+    row-gap: 78px;
     justify-content: space-between;
 }
 .service-item {
