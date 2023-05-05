@@ -118,11 +118,7 @@
   }
   
   @media (max-width: 767px) {
-    .burger-btn::before,
-    .burger-btn::after {
-      height: 1.52px;
-    }
-  
+      
     .burger-btn::after {
       top: 5px;
       width: 24px;
